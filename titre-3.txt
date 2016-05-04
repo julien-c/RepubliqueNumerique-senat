@@ -1,365 +1,840 @@
 TITRE III
 
-L'ACCÈS AU NUMÉRIQUE
+L’ACCÈS AU NUMÉRIQUE
 
-CHAPITRE IER
-
+Chapitre Ier
 Numérique et territoires
 
 Section 1
-
 Compétences et organisation
 
 Article 35
 
-Le chapitre V du titre II du livre IV de la première partie du code général des collectivités territoriales est complété par un article L. 1425-3 ainsi rédigé :
+L’article L. 1425-2 du code général des collectivités territoriales est ainsi modifié :
 
-« Art. L. 1425-3. - Dans les domaines de compétence que la loi leur attribue, les conseils départementaux ou régionaux ou les syndicats mixtes mentionnés à l'article L. 5721-9 dont le périmètre recouvre l'intégralité du territoire couvert par le schéma peuvent établir une stratégie de développement des usages et services numériques sur leur territoire. Cette stratégie constitue un volet du schéma directeur territorial d'aménagement numérique. Elle vise à favoriser l'équilibre de l'offre de services numériques sur le territoire ainsi que la mise en place de ressources mutualisées, publiques et privées, notamment en matière de médiation numérique. Le projet de stratégie fait l'objet d'une concertation pour recueillir les observations du conseil économique, social et environnemental régional, des conseils de développement concernés et du public.
+1° Après le premier alinéa, sont insérés deux alinéas ainsi rédigés :
 
-« Les conseils départementaux ou les conseils régionaux peuvent déléguer la mise en oeuvre du schéma directeur territorial d'aménagement numérique à un pôle métropolitain. Dans ce cas, les opérateurs ont l'obligation d'une couverture équilibrée entre les territoires urbains, périurbains et ruraux. »
+« Ils peuvent comporter une stratégie de développement des usages et services numériques. Cette stratégie vise à favoriser l’équilibre de l’offre de services numériques sur le territoire ainsi que la mise en place de ressources mutualisées, publiques et privées, y compris en matière de médiation numérique.
+
+« Cette stratégie prend en compte les stratégies des collectivités et leurs groupements en matière de développement des usages et des services numériques. » ;
+
+2 (nouveau) Il est ajouté un alinéa ainsi rédigé :
+
+« Un document-cadre intitulé “Orientations nationales pour le développement des usages et des services numériques dans les territoires” est élaboré, mis à jour et suivi par l’autorité compétente de l’État. Ce document-cadre comprend une présentation des choix stratégiques de nature à contribuer au développement équilibré des usages et des services numériques dans les territoires et un guide méthodologique relatif à l’élaboration des stratégies de développement des usages et des services numériques mentionnées au deuxième alinéa du présent article. »
 
 Article 36
 
-Après le deuxième alinéa du I de l'article L. 1425-1 du code général des collectivités territoriales, sont insérés deux alinéas ainsi rédigés :
+Après le deuxième alinéa du I de l’article L. 1425-1 du code général des collectivités territoriales, sont insérés deux alinéas ainsi rédigés :
 
-« Par dérogation au premier alinéa de l'article L. 5721-2, un syndicat mixte relevant du titre II du livre VII peut adhérer, jusqu'au 31 décembre 2019, à un autre syndicat mixte exerçant, par transfert ou délégation, tout ou partie des compétences mentionnées au premier alinéa du présent I.
+« Par dérogation au premier alinéa de l’article L. 5721-2, un syndicat mixte relevant du titre II du livre VII de la cinquième partie peut adhérer, jusqu’au 31 décembre 2021, à un autre syndicat mixte exerçant, par transfert ou délégation, tout ou partie des compétences mentionnées au premier alinéa du présent I.
 
-« L'adhésion d'un syndicat mixte qui exerce ses compétences par délégation à un autre syndicat mixte n'est possible que si ce dernier comprend au moins une région ou un département. À compter du 1er janvier 2022, un syndicat mixte exerçant, par transfert ou délégation, tout ou partie des compétences mentionnées au premier alinéa du présent I ne peut plus être membre d'un syndicat mixte relevant du titre II du livre VII. »
+« L’adhésion d’un syndicat mixte qui exerce ses compétences par délégation à un autre syndicat mixte n’est possible que si ce dernier comprend au moins une région ou un département. »
 
-Article 36 bis (nouveau)
+Article 36 bis
 
-Le second alinéa de l'article L. 33-11 du code des postes et des communications électroniques est complété par les mots : « avant le 31 décembre 2016 ».
+L’article L. 33-11 du code des postes et des communications électroniques est ainsi modifié :
+
+1° La dernière phrase du premier alinéa est supprimée ;
+
+2° Le second alinéa est remplacé par trois alinéas ainsi rédigés :
+
+« Le ministre chargé des communications électroniques fixe, sur proposition de l’Autorité de régulation des communications électroniques et des postes et dans un délai de six mois à compter de la promulgation de la loi n°   du    pour une République numérique, les modalités et les conditions d’attribution du statut de “zone fibrée” ainsi que les obligations pouvant être attachées à l’attribution de ce statut.
+
+« Le statut de “zone fibrée” est attribué par l’Autorité de régulation des communications électroniques et des postes. La décision d’attribution précise les obligations pesant sur le demandeur. Elle est communiquée au ministre chargé des communications électroniques.
+
+« Un décret en Conseil d’État, pris dans un délai de six mois à compter de la promulgation de la loi n°       du         pour une République numérique, détermine les modalités d’application du présent article, notamment les obligations réglementaires pouvant être adaptées en raison de l’attribution de ce statut ainsi que les dispositions facilitant la transition vers le très haut débit. »
 
 Section 2
 
 Couverture numérique
 
-Article 37 A (nouveau)
+Article 37 A
+(Conforme)
 
-L'article L. 1615-7 du code général des collectivités territoriales est complété par un alinéa ainsi rédigé :
+Article 37 B
 
-« Les collectivités territoriales et leurs groupements bénéficient des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses d'investissement réalisées sur la période 2015-2022, sous maîtrise d'ouvrage publique, en matière d'infrastructures passives intégrant leur patrimoine dans le cadre du plan d'action relatif à l'extension de la couverture du territoire par les réseaux de téléphonie mobile. »
+L’article L. 48 du code des postes et des communications électroniques est ainsi modifié :
 
-Article 37 B (nouveau)
-
-L'article L. 48 du code des postes et des communications électroniques est ainsi modifié :
-
-1° Au a, après le mot : « Sur », sont insérés les mots : « les bâtiments d'habitation et sur » ;
+1° Au début du a, après le mot : « Sur », sont insérés les mots : « les bâtiments d’habitation et sur » ;
 
 2° Le c est ainsi modifié :
 
-a) Les mots : « Au-dessus » sont remplacés par les mots : « Sur et au-dessus » ;
+a) Au début, les mots : « Au-dessus » sont remplacés par les mots : « Sur et au‑dessus » ;
 
-b) Après le mot : « privées », sont insérés les mots : « , y compris à l'extérieur des murs ou façades donnant sur la voie publique, » ;
+b) Après le mot : « privées », sont insérés les mots : « , y compris à l’extérieur des murs ou façades donnant sur la voie publique, » ;
+
+b bis (nouveau)) Après les mots : « bénéficiant de servitudes », sont insérés les mots : « ou de droits de passage définis par convention avec le propriétaire » ;
 
 c) Est ajoutée une phrase ainsi rédigée : 
 
-« En cas de contrainte technique, l'installation est déployée à proximité de celle bénéficiant de la servitude en suivant au mieux le cheminement de cette dernière. » ;
+« En cas de contrainte technique, l’installation est déployée à proximité de celle bénéficiant de la servitude ou du droit de passage en suivant au mieux le cheminement de cette servitude ou de ce droit de passage. » ;
 
-3° L'avant-dernière phrase du sixième alinéa est ainsi modifiée :
+3° Le sixième alinéa est ainsi modifié :
 
-a) Les mots : « qu'elle résulte du partage d'une installation déjà autorisée au titre d'une autre servitude et » sont supprimés ;
+a) La première phrase est ainsi modifiée :
 
-b) La référence : « à l'article L. 45-9 » est remplacée par la référence : « au c du présent article ».
+– après les mots : « bénéficiaire de servitude », sont insérés les mots : « ou d’un droit de passage défini par convention avec le propriétaire » ;
 
-Article 37 C (nouveau)
+– après les mots : « bénéficiaire de la servitude », sont insérés les mots : « ou du droit de passage » ;
 
-L'article 24-2 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis est complété par deux alinéas ainsi rédigés :
+b) L’avant-dernière phrase est ainsi modifiée :
 
-« Lorsqu'une demande de raccordement à un réseau de communications électroniques à très haut débit en fibre optique est effectuée par l'occupant d'un logement d'un immeuble comportant plusieurs logements ou d'un immeuble à usage mixte dans les conditions prévues à l'article 1er de la loi n° 66-457 du 2 juillet 1966 relative à l'installation d'antennes réceptrices de radiodiffusion, le syndicat des copropriétaires ne peut s'opposer, nonobstant toute convention contraire, sans motif sérieux et légitime conformément au II du même article 1er, à l'installation de telles lignes dans les parties communes de l'immeuble de manière à permettre la desserte de chacun des logements, sous réserve que l'immeuble dispose des infrastructures d'accueil adaptées.
+– les mots : « qu’elle résulte du partage d’une installation déjà autorisée au titre d’une autre servitude et » sont supprimés ;
 
-« Cette installation, réalisée aux frais de l'opérateur conformément à l'article L. 34-8-3 du code des postes et des communications électroniques, fait l'objet d'une convention conclue dans les conditions prévues à l'article L. 33-6 du même code avec le syndicat des copropriétaires, après avis du conseil syndical lorsque celui-ci a été institué. »
+– les mots : « à l’article L. 45‑9 » sont remplacés par les mots : « au c du présent article ».
 
-Article 37 D (nouveau)
+Article 37 C
 
-La seconde phrase du 7° du I de l'article 39 decies du code général des impôts est remplacée par trois phrases ainsi rédigées :
+I (nouveau). – Le II de l’article 1er de la loi n° 66-457 du 2 juillet 1966 relative à l’installation d’antennes réceptrices de radiodiffusion est ainsi modifié :
 
-« En cas de cession de droits d'usage portant sur les biens mentionnés à la première phrase du présent 7°, le montant des investissements éligibles est égal à la différence entre le montant total des investissements effectués et le montant des droits d'usage cédés à une entreprise tierce. Par dérogation au premier alinéa du présent I, les entreprises titulaires d'un droit d'usage portant sur ces biens peuvent déduire une somme égale à 40 % du montant facturé au titre de ce droit d'usage. Par dérogation au même premier alinéa, la déduction s'applique aux droits d'usage et aux biens mentionnés au présent 7° qui sont acquis ou fabriqués par l'entreprise à compter du 1er janvier 2016 et jusqu'au 31 décembre 2016. »
+1° Le premier alinéa est ainsi modifié :
 
-Article 37 E (nouveau)
+a) Le début est ainsi rédigé : « À la demande d’un ou plusieurs propriétaires, locataires ou occupants de bonne foi, le  propriétaire ou le syndicat des copropriétaires ne peut, nonobstant toute convention contraire… (le reste sans changement). » ;
 
-Après le troisième alinéa de l'article L. 34-8-3 du code des postes et des communications électroniques, il est inséré un alinéa ainsi rédigé :
+b) Après le mot : « équipements nécessaires », la fin est ainsi rédigée : « , y compris dans les parties communes, à la desserte de chacun des logements. Cette installation est réalisée aux frais de l’opérateur dans les conditions fixées à l’article L. 34-8-3 du code des postes et des communications électroniques et fait l’objet d’une convention dans les conditions fixées à l’article L. 33-6 du même code, après avis du conseil syndical lorsque celui-ci est institué. » ;
 
-« Lorsque la personne qui fournit l'accès met en oeuvre une péréquation tarifaire à l'échelle de la zone de déploiement, elle peut réserver l'application de cette péréquation aux seuls opérateurs qui ne déploient pas de lignes à très haut débit en fibre optique permettant de desservir des logements situés dans cette zone. »
+2° Le deuxième alinéa est ainsi modifié :
 
-Article 37 F (nouveau)
+a) Au début de la première phrase, le mot : « Constitue » est remplacé par le mot : « Constituent » ;
 
-Le septième alinéa du III de l'article L. 36-11 du code des postes et des communications électroniques est ainsi rédigé :
+b) Après le mot : « ouvert », la fin est ainsi rédigée : « au public : » ;
 
-« - une sanction pécuniaire dont le montant est proportionné à la gravité du manquement, appréciée notamment au regard du nombre d'habitants ou de kilomètres carrés non couverts ou de sites non couverts, lorsque la personne en cause ne s'est pas conformée à une mise en demeure portant sur le respect d'obligations de couverture de la population prévues par l'autorisation d'utilisation de fréquences qui lui a été attribuée. Sont notamment considérées comme non couvertes, au sens du présent alinéa, les zones rurales dans lesquelles l'entretien et la maintenance des matériels, logiciels et installations constituant le réseau ne sont pas normalement assurés ; ».
+3° Après le deuxième alinéa, il est inséré un a ainsi rédigé :
+
+« a) La préexistence de lignes de communications électroniques en fibre optique permettant de répondre aux besoins spécifiques du demandeur ; »
+
+4° Le troisième alinéa est ainsi modifié :
+
+a) Le début est ainsi rédigé : « b) La décision prise par le propriétaire, dans un délai de six mois… (le reste sans changement). » ;
+
+b) La seconde phrase est supprimée ;
+
+5° Après le troisième alinéa, il est inséré un c ainsi rédigé :
+
+« c) L’immeuble ne dispose pas des infrastructures d’accueil adaptées. » ;
+
+6° Le quatrième alinéa est supprimé.
+
+II. – Le h de l’article 25 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis est complété par les mots : « et à l’exception des dispositions du II de l’article 1er de la loi n° 66-457 du 2 juillet 1966 relative à l’installation d’antennes réceptrices de radiodiffusion ».
+
+III. – Au début de l’article L. 33-6 du code des postes et des communications électroniques, les mots : « Sans préjudice du II de l’article 1er de la loi n° 66-457 du 2 juillet 1966 relative à l’installation d’antennes réceptrices de radiodiffusion, » sont supprimés.
+
+Article 37 D
+I. – L’article 39 decies du code général des impôts est ainsi modifié :
+
+A. – Le I est ainsi modifié :
+
+1° Au premier alinéa, l’année : « 2016 » est remplacée par l’année : « 2017 » ;
+
+2° Au 6°, la date : « 31 décembre 2016 » est remplacée par la date : « 14 avril 2017 » ;
+
+3° Au 7°, la seconde phrase est remplacée par quatre phrases ainsi rédigées :
+
+« Ces biens peuvent bénéficier de la déduction quelles que soient leurs modalités d’amortissement. En cas de cession de droits d’usage portant sur les biens mentionnés à la première phrase du présent 7°, le montant des investissements éligibles est égal à la différence entre le montant total des investissements effectués, hors frais financiers, et le montant ouvrant droit à la déduction des droits d'usage cédés à une entreprise tierce. Par dérogation au premier alinéa du présent I, les entreprises titulaires d'un droit d'usage portant sur ces biens peuvent déduire une somme égale à 40 % du montant facturé au titre de ce droit d’usage pour sa fraction afférente au prix d’acquisition ou de fabrication des biens, y compris par dérogation à la première phrase du présent 7°, lorsque ces biens font partie de réseaux ayant fait l’objet d’une aide versée par une personne publique. Par dérogation au même premier alinéa, la déduction s’applique aux biens mentionnés au présent 7° qui sont acquis ou fabriqués par l’entreprise à compter du 1er janvier 2016 et jusqu’au 14 avril 2017 et aux droits d’usage des biens acquis ou fabriqués au cours de la même période qui font l’objet d’une cession avant le 15 avril 2017. » ;
+
+4° Après le huitième alinéa, sont insérés des 8° et 9° ainsi rédigés :
+
+« 8° Les logiciels qui contribuent à des opérations industrielles de fabrication et de transformation. Par dérogation au premier alinéa du présent I, la déduction s’applique aux biens mentionnés au présent 8° quelles que soient leurs modalités d’amortissement ;
+
+« 9° Les appareils informatiques prévus pour une utilisation au sein d’une baie informatique acquis ou fabriqués par l’entreprise et les machines destinées au calcul intensif acquises de façon intégrée, à compter du 12 avril 2016 et jusqu’au 14 avril 2017. Par dérogation au premier alinéa du présent I, la déduction s’applique aux biens mentionnés au présent 9° quelles que soient leurs modalités d’amortissement. » ;
+
+5° Le dixième alinéa est ainsi modifié :
+
+a) À la première phrase, les mots : « , conclu à compter du 15 avril 2015 et jusqu’au 14 avril 2016, » sont supprimés ;
+
+b) Après la première phrase, est insérée une phrase ainsi rédigée :
+
+« Ces contrats sont ceux conclus à compter du 15 avril 2015 et jusqu’au 14 avril 2017 pour les biens mentionnés aux 1° à 6° et au 8°, à compter du 1er janvier 2016 et jusqu’au 14 avril 2017 pour les biens mentionnés au 7° et à compter du 12 avril 2016 et jusqu’au 14 avril 2017 pour les biens mentionnés au 9°. » ;
+
+c) À la deuxième phrase, le mot : « huitième » est remplacé par le mot : « onzième ».
+
+B. – Le II est ainsi modifié :
+
+1° Le premier alinéa est ainsi modifié :
+
+a) La deuxième occurrence du mot : « les » est remplacée par le mot : « des » ;
+
+b) L’année : « 2016 » est remplacée par les mots : « 2017, d’une part, au titre des biens affectés exclusivement à des opérations exonérées, d’autre part, au titre des biens affectés à la fois à des opérations exonérées et à des opérations taxables au prorata du chiffre d’affaires des opérations exonérées rapporté au chiffre d’affaires total » ;
+
+2° Au deuxième alinéa, les mots : « , déterminée à proportion » sont remplacés par les mots : « ainsi déterminée égale à la proportion ».
+
+II. – Le B du I s’applique aux biens acquis, fabriqués ou pris en crédit-bail ou en location avec option d’achat par les coopératives à compter du 26 avril 2016.
+
+Article 37 EA (nouveau)
+
+Lorsque des collectivités territoriales cèdent des droits permanents, irrévocables et exclusifs d’usage de longue durée de réseaux de communications électroniques, ceux-ci peuvent être comptabilisés, en totalité, l’année de leur encaissement, en section d’investissement.
+
+Lorsque des collectivités territoriales acquièrent des droits permanents, irrévocables et exclusifs d’usage de longue durée de réseaux de communications électroniques, ceux-ci peuvent être comptabilisés en section d’investissement.
+
+Article 37 E
+
+L’article L. 34-8-3 du code des postes et des communications électroniques est ainsi modifié :
+
+1° Après le troisième alinéa, il est inséré un alinéa ainsi rédigé :
+
+« Lorsque la personne qui fournit l’accès met en œuvre une péréquation tarifaire à l’échelle de la zone de déploiement, elle peut réserver l’application de cette péréquation aux seuls opérateurs qui ne déploient pas de lignes à très haut débit en fibre optique permettant de desservir des logements situés dans cette zone. » ;
+
+2° (nouveau) Au dernier alinéa, après le mot : « proportionnée, », sont insérés les mots : « notamment dans le temps en fonction des coûts de déploiement, ».
+
+Article 37 FA (nouveau)
+
+(Supprimé)
+
+Article 37 FB (nouveau)
+
+Le titre Ier du livre II du code des postes et des communications électroniques est ainsi modifié :
+
+1° La section 1 du chapitre II est complétée par un article L. 33-13 ainsi rédigé :
+
+« Art. L. 33-13. – Le ministre chargé des communications électroniques peut accepter, après avis de l’Autorité de régulation des communications électroniques et des postes, les engagements, souscrits auprès de lui par les opérateurs, de nature à contribuer à l’aménagement et à la couverture des zones peu denses du territoire par les réseaux de communications électroniques et à favoriser l’accès des opérateurs à ces réseaux.
+
+« L’Autorité de régulation des communications électroniques et des postes en contrôle le respect et sanctionne les manquements constatés dans les conditions prévues à l’article L. 36-11. » ;
+
+2° Après le IV de l’article L. 38, il est inséré un IV bis ainsi rédigé :
+
+« IV bis. – Dans le cadre de la détermination des obligations qu’elle est susceptible d’imposer en application du I et sans préjudice du IV, l’Autorité peut tenir compte des engagements souscrits par l’opérateur réputé exercer une influence significative sur un marché mentionné au I lorsque ces engagements sont de nature à répondre aux obstacles au développement d’une concurrence effective constatés dans le cadre de l’analyse menée conformément à l’article L. 37-1. »
+
+Article 37 FC (nouveau)
+
+Après l’article L. 33-10 du code des postes et des communications électroniques, il est inséré un article L. 33-10-1 ainsi rédigé :
+
+« Art. L. 33-10-1. – Les projets de déploiement par des opérateurs privés sur la période 2017-2022 de réseaux ouverts au public à très haut débit en fibre optique permettant de desservir l’utilisateur final font l’objet de conventions signées au plus tard le 31 décembre 2016 entre l’opérateur concerné, l’État et les collectivités territoriales ou leurs groupements dont le territoire est compris en tout ou partie dans la zone de déploiement du réseau. À défaut, l’insuffisance de l’initiative privée pour déployer un réseau à très haut débit en fibre optique permettant de desservir les utilisateurs finals dans la zone concernée est constatée.
+
+« La convention précise les engagements des parties, notamment le nombre de prises rendues raccordables par l’opérateur chaque année, les zones prioritaires, une estimation des investissements prévus, un calendrier de déploiement et les conditions d’indemnisation des collectivités territoriales par l’opérateur en cas de carence.
+
+« L’opérateur transmet annuellement à l’État et aux collectivités territoriales ou à leurs groupements signataires un bilan d’exécution de la convention, comprenant notamment un état des lieux du déploiement en nombre de prises rendues raccordables. Ce bilan est communiqué par l’opérateur à l’Autorité de régulation des communications électroniques et des postes.
+
+« En cas de décalage significatif entre les engagements pris par l’opérateur dans la convention et la réalisation des travaux, une procédure de constat de carence peut être mise en œuvre par l’État, à la demande d’une collectivité territoriale ou d’un groupement de collectivités territoriales signataire de la convention. À l’issue d’une procédure contradictoire et après avis de l’Autorité de régulation des communications électroniques et des postes, la carence de l’opérateur peut être constatée par l’État. Le constat de carence détermine les conditions dans lesquelles le déploiement du réseau est assuré par un autre opérateur, public ou privé.
+
+« Le présent article ne s’applique pas aux projets de déploiement qui font l’objet de conventions signées avant la promulgation de la loi n°      du          pour une République numérique entre des opérateurs privés, l’État et des collectivités territoriales ou leurs groupements.
+
+« Lorsqu’un projet de déploiement couvre un territoire faisant déjà l’objet d’une convention, l’État et les collectivités territoriales ou leurs groupements signataires s’assurent de la cohérence de ce projet avec les déploiements prévus et déjà réalisés, notamment au regard de l’objectif de couverture du territoire. »
+
+Article 37 F
+
+Le septième alinéa du III de l’article L. 36‑11 du code des postes et des communications électroniques est ainsi rédigé :
+
+« – une sanction pécuniaire dont le montant est proportionné à la gravité du manquement apprécié notamment au regard du nombre d’habitants ou de kilomètres carrés non couverts ou de sites non couverts, sans pouvoir excéder un plafond fixé à 130 € par habitant non couvert ou 3 000 € par kilomètre carré non couvert ou 80 000 € par site non couvert lorsque la personne en cause ne s’est pas conformée à une mise en demeure portant sur le respect d’obligations de couverture de la population prévues par l’autorisation d’utilisation de fréquences qui lui a été attribuée ; ».
 
 Article 37
+(Conforme)
 
-L'article L. 36-7 du code des postes et des communications électroniques est complété par un 11° ainsi rédigé :
+Article 37 bis
 
-« 11° Met à disposition du public, sous forme électronique, dans un standard ouvert aisément réutilisable, sous réserve de mentionner leurs sources, les cartes numériques de couverture du territoire que les fournisseurs de services de communications électroniques sont tenus de publier en application du présent code et des décisions prises pour son application, ainsi que les données servant à les établir dont elle fixe la liste et que les fournisseurs lui transmettent préalablement. »
+Le II de l’article 52‑1 de la loi n° 2004‑575 du 21 juin 2004 pour la confiance dans l’économie numérique est complété par une phrase ainsi rédigée :
 
-Article 37 bis (nouveau)
+« Toute commune ne figurant pas sur la liste précitée et répondant aux critères fixés au premier alinéa du III de l’article 52 peut demander à y être inscrite, par un arrêté pris conjointement par les ministres chargés des communications électroniques et de l’aménagement du territoire. »
 
-Le II de l'article 52-1 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique est complété par une phrase ainsi rédigée :
+Article 37 ter (nouveau)
 
-« Toute commune ne figurant pas sur la liste précitée et répondant aux critères fixés au premier alinéa du III de l'article 52 peut demander à figurer sur une liste complémentaire, établie dans les mêmes conditions dans un délai de six mois à compter de la promulgation de la loi n°     du       pour une République numérique. »
+À l’article L. 33-12 du code des postes et des communications électroniques, les mots : « en application des articles L. 33-1, L. 36-6 et L. 42-1, » sont remplacés par les mots : « en application des articles L. 33‑1, L. 34-8-5, L. 36-6 et L. 42-1 du présent code, des articles 52 à 52-3 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique, et des articles 119 à 119-2 de la loi n° 2008-776 du 4 août 2008 de modernisation de l’économie, ».
+
+Article 37 quater (nouveau)
+
+Le quatrième alinéa de l’article L. 42-2 du code des postes et des communications électroniques est complété par une phrase ainsi rédigée :
+
+« Lors du renouvellement des autorisations d’utilisation de fréquences attribuées pour l’établissement et l’exploitation d’un réseau radioélectrique mobile ouvert au public, de l’attribution à ces fins d’autorisations d’utilisation de fréquences utilisées précédemment pour d’autres activités, ou de la cession d’autorisations d’utilisation de fréquences dans le cadre d’une opération de concentration entre titulaires, des obligations de déploiement sont définies pour assurer un niveau élevé de couverture de la population et du territoire de chaque commune. »
+
+Article 37 quinquies (nouveau)
+
+Le dernier alinéa de l’article L. 34-8-1-1 du code des postes et des communications électroniques est remplacé par cinq alinéas ainsi rédigés :
+
+« Lorsque l’autorité constate que cela est nécessaire à la réalisation des objectifs mentionnés au 4° du II de l’article L. 32‑1, elle peut demander la mise en œuvre d’un partage de réseaux radioélectriques ouverts au public.
+
+« Après consultation publique, l’autorité précise les opérateurs tenus de mettre en œuvre ce partage, le délai dans lequel la convention de partage doit être conclue et le périmètre géographique, ainsi que les principales caractéristiques contractuelles, techniques, économiques et financières qui doivent fonder la convention de partage. Elle approuve la convention de partage et peut, le cas échéant, en demander sa modification dans des termes et dans un délai qu’elle détermine. Le refus de négocier de bonne foi, le non-respect ou le défaut de mise en œuvre de la convention de partage sont sanctionnés par l’autorité, conformément à l’article L. 36-11.
+
+« En cas d’échec des négociations entre les parties, l’autorité peut exiger d’un ou de plusieurs opérateurs la publication d’une offre d’accès à leur réseau en vue de permettre la mise en œuvre d’un partage de réseaux radioélectriques ouverts au public.
+
+« Après consultation publique, l’autorité précise les opérateurs qui doivent formuler une telle offre d’accès, le délai dans lequel l’offre doit être formulée et rendue publique et le périmètre géographique ainsi que les principales caractéristiques contractuelles, techniques, économiques et financières qui doivent fonder cette offre d’accès. Elle peut demander la modification de cette offre dans des termes et dans un délai qu’elle détermine. Le refus de formuler une offre, de négocier de bonne foi avec un opérateur tiers la signature d’une convention d’accès sur cette base, ou le défaut de mise en œuvre de cette convention sont sanctionnés par l’autorité, conformément à l’article L. 36‑11.
+
+« Sans préjudice de l’article L. 34-8-1, lorsque la prestation permet la fourniture de services de communications électroniques sur une des zones identifiées en application du III de l’article 52 ou des articles 52-1 et 52-2 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique, des articles 119, 119-1 ou 119-2 de la loi n° 2008-776 du 4 août 2008 de modernisation de l’économie ou de l’article L. 34-8-5 du présent code, elle est assurée dans des conditions objectives, transparentes et non discriminatoires. »
 
 Article 38
 
-Le chapitre V du titre II du livre Ier de la deuxième partie du code général de la propriété des personnes publiques est complété par une section 4 ainsi rédigée :
+I. – Le chapitre V du titre II du livre Ier de la deuxième partie du code général de la propriété des personnes publiques est complété par une section 4 ainsi rédigée :
 
 « Section 4
-
 « Dispositions particulières aux services de communications électroniques utilisant le domaine public hertzien
 
-« Art. L. 2125-10. - La redevance due par un opérateur de communications électroniques pour l'occupation ou l'utilisation du domaine public des fréquences radioélectriques tient compte, d'une part, des avantages de toute nature procurés au titulaire de l'autorisation eu égard à l'utilisation à laquelle ces fréquences sont destinées et, d'autre part, de l'objectif d'utilisation et de gestion efficaces des fréquences radioélectriques.
+« Art. L. 2125‑10. – Le calcul de la redevance due par un opérateur de communications électroniques pour l’occupation ou l’utilisation du domaine public des fréquences radioélectriques au titre des articles L. 2125-1 et L. 2125‑3 tient compte des besoins d’aménagement du territoire.
 
-« L'utilisation de fréquences radioélectriques qui n'ont pas été spécifiquement assignées à un utilisateur ne donne pas lieu au paiement d'une redevance.
+« L’utilisation de fréquences radioélectriques qui n’ont pas été spécifiquement assignées à un utilisateur ne donne pas lieu au paiement d’une redevance.
 
-« L'utilisation des fréquences radioélectriques autorisées à des fins exclusivement expérimentales peut ne pas donner lieu au paiement d'une redevance. »
+« L’utilisation de fréquences radioélectriques autorisées à des fins exclusivement expérimentales n’est pas tenue de donner lieu au paiement d’une redevance. »
+
+II (nouveau). – La perte de recettes résultant pour l’État du I est compensée, à due concurrence, par la création d’une taxe additionnelle aux droits prévus aux articles 575 et 575 A du code général des impôts.
+
+Article 38 bis (nouveau)
+
+Six mois après la promulgation de la présente loi, le Gouvernement remet un rapport au Parlement dans le but de réviser les critères d’éligibilité des territoires en « zones blanches » et de proposer des indicateurs pertinents de couverture mobile en amont du renouvellement des licences des opérateurs de télécommunications pour 2021. 
 
 Article 39
 
 Le livre II du code des postes et des communications électroniques est ainsi modifié :
 
-A. - L'article L. 35 est complété par un alinéa ainsi rédigé :
+A. – L’article L. 35 est complété par un alinéa ainsi rédigé :
 
-« En vue de garantir la permanence, la qualité et la disponibilité des réseaux et du service, l'entretien des réseaux assurant des services fixes de communications électroniques ouverts au public et de leurs abords est d'utilité publique. » ;
+« En vue de garantir la permanence, la qualité et la disponibilité des réseaux et du service, l’entretien des réseaux assurant des services fixes de communications électroniques ouverts au public et de leurs abords est d’utilité publique. » ;
 
-B. - Le chapitre III du titre Ier est complété par un article L. 35-7 ainsi rétabli :
+B. – Le chapitre III du titre Ier est complété par un article L. 35‑7 ainsi rétabli :
 
-« Art. L. 35-7. - Au plus tard trois mois avant l'expiration de la période pour laquelle elle a été chargée, en application de l'article L. 35-2, de fournir la composante du service universel prévue au 1° de l'article L. 35-1, toute personne désignée dans le cadre de la procédure prévue aux deuxième ou troisième alinéas de l'article L. 35-2 remet au ministre chargé des communications électroniques ainsi qu'à l'Autorité de régulation des communications électroniques et des postes un rapport présentant un état des lieux détaillé de son réseau fixe. Ce rapport comporte une analyse, à l'échelle du département, de l'état du réseau lorsque ne sont pas remplies les obligations, notamment de qualité, prévues par le cahier des charges mentionné à l'avant-dernier alinéa du même article L. 35-2.
+« Art. L. 35‑7. – Au plus tard trois mois avant l’expiration de la période pour laquelle elle a été chargée, en application de l’article L. 35‑2, de fournir la composante du service universel prévue au 1° de l’article L. 35‑1, toute personne désignée dans le cadre de la procédure prévue aux deuxième ou troisième alinéas de l’article L. 35‑2 remet au ministre chargé des communications électroniques ainsi qu’à l’Autorité de régulation des communications électroniques et des postes un rapport présentant un état des lieux détaillé de son réseau fixe. Ce rapport comporte une analyse, à l’échelle du département, de l’état du réseau lorsque ne sont pas remplies les obligations, notamment de qualité, prévues par le cahier des charges mentionné à l’avant‑dernier alinéa du même article L. 35‑2.
 
-« Sauf si leur divulgation est susceptible de porter atteinte au secret des affaires, au secret commercial ou au secret statistique, l'Autorité de régulation des communications électroniques et des postes communique aux collectivités territoriales et à leurs groupements concernés, à leur demande, tout ou partie de ce rapport. » ;
+« Sauf si leur divulgation est susceptible de porter atteinte au secret des affaires, au secret commercial ou au secret statistique, l’Autorité de régulation des communications électroniques et des postes communique aux collectivités territoriales et à leurs groupements concernés, à leur demande, tout ou partie de ce rapport. » ;
 
-C. - L'article L. 36-11 est ainsi modifié :
+C. – L’article L. 36‑11 est ainsi modifié :
 
-1° À la première phrase du premier alinéa, après la deuxième occurrence du mot : « électroniques, », sont insérés les mots : « d'une collectivité territoriale ou d'un groupement de collectivités territoriales, » ;
+1° À la première phrase du premier alinéa, après la deuxième occurrence du mot : « électroniques, », sont insérés les mots : « d’une collectivité territoriale ou d’un groupement de collectivités territoriales, » ;
 
 2° Après le sixième alinéa du III, il est inséré un alinéa ainsi rédigé :
 
-« - lorsqu'une personne chargée, en application de l'article L. 35-2, de fournir des prestations de service universel ne s'est pas conformée à une mise en demeure portant sur le respect d'obligations pesant sur elle à ce titre, une sanction pécuniaire dont le montant est proportionné à la gravité du manquement et aux avantages qui en sont tirés, sans pouvoir excéder 5 % du chiffre d'affaires hors taxes du dernier exercice clos, taux porté à 10 % en cas de nouvelle violation de la même obligation. À défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut excéder 150 000 €, porté à 375 000 € en cas de nouvelle violation de la même obligation ; »
+« – lorsqu’une personne chargée, en application de l’article L. 35‑2, de fournir des prestations de service universel ne s’est pas conformée à une mise en demeure portant sur le respect d’obligations pesant sur elle à ce titre, une sanction pécuniaire dont le montant est proportionné à la gravité du manquement et aux avantages qui en sont tirés, sans pouvoir excéder 5 % du chiffre d’affaires hors taxes du dernier exercice clos, taux porté à 10 % en cas de nouvelle violation de la même obligation. À défaut d’activité permettant de déterminer ce plafond, le montant de la sanction ne peut excéder 150 000 €, porté à 375 000 € en cas de nouvelle violation de la même obligation ; »
 
-D. - L'article L. 47 est ainsi modifié :
+D. – L’article L. 47 est ainsi modifié :
 
 1° Au deuxième alinéa, après le mot : « réseaux », sont insérés les mots : « et de leurs abords » ;
 
 2° À la deuxième phrase du cinquième alinéa, après le mot : « équipements », sont insérés les mots : « , y compris de leurs abords, » ;
 
-E. - L'article L. 48 est ainsi modifié :
+E. – L’article L. 48 est ainsi modifié :
 
 1° Le premier alinéa est ainsi modifié :
 
-a) Les mots : « et l'exploitation » sont remplacés par les mots : « , l'exploitation et l'entretien » ;
+a) Les mots : « et l’exploitation » sont remplacés par les mots : « , l’exploitation et l’entretien » ;
 
-b) Sont ajoutés les mots : « , ainsi que pour permettre les opérations d'entretien des abords des réseaux permettant d'assurer des services fixes de communications électroniques ouverts au public, telles que le débroussaillage, la coupe d'herbe, l'élagage et l'abattage » ;
+b) Sont ajoutés les mots : « , ainsi que pour permettre les opérations d’entretien des abords des réseaux permettant d’assurer des services fixes de communications électroniques ouverts au public, telles que le débroussaillage, la coupe d’herbe, l’élagage et l’abattage » ;
 
 2° Le huitième alinéa est ainsi modifié :
 
-a) Les mots : « et l'exploitation des installations » sont remplacés par les mots : « , l'exploitation et l'entretien des installations ou pour les opérations d'entretien mentionnées au premier alinéa » ;
+a) Les mots : « et l’exploitation des installations » sont remplacés par les mots : « , l’exploitation et l’entretien des installations ou pour les opérations d’entretien mentionnées au premier alinéa » ;
 
 b) Le mot : « premier » est remplacé par le mot : « même » ;
 
-c) Après le mot : « amiable », sont insérés les mots : « ou de convention conclue entre le propriétaire et l'exploitant » ;
+c) Après le mot : « amiable », sont insérés les mots : « ou de convention conclue entre le propriétaire et l’exploitant » ;
 
-F. - L'article L. 50 est ainsi rétabli :
+F. – L’article L. 50 est ainsi rétabli :
 
-« Art. L. 50. - I. - Les opérations d'entretien des abords d'un réseau ouvert au public permettant d'assurer des services fixes de communications électroniques, telles que le débroussaillage, la coupe d'herbe, l'élagage et l'abattage, sont accomplies par le propriétaire du terrain, le fermier ou leurs représentants, que la propriété soit riveraine ou non du domaine public, afin de prévenir l'endommagement des équipements du réseau et l'interruption du service. À cette fin, l'exploitant du réseau ouvert au public est tenu de proposer au propriétaire du terrain, au fermier ou à leurs représentants l'établissement d'une convention. Sur le domaine public, les modalités de réalisation des coupes sont définies par la convention prévue au premier alinéa de l'article L. 46 ou par la permission de voirie prévue au troisième alinéa de l'article L. 47.
+« Art. L. 50. – I. – Les opérations d’entretien des abords d’un réseau ouvert au public permettant d’assurer des services fixes de communications électroniques, telles que le débroussaillage, la coupe d’herbe, l’élagage et l’abattage, sont accomplies par le propriétaire du terrain, le fermier ou leurs représentants afin de prévenir l’endommagement des équipements du réseau et l’interruption du service. À cette fin, l’exploitant du réseau ouvert au public est tenu de proposer au propriétaire du terrain, au fermier ou à leurs représentants l’établissement d’une convention. Les opérations d’entretien des abords sont accomplies aux frais de l’exploitant du réseau ouvert au public, sauf si le propriétaire du terrain, le fermier ou leurs représentants, et l’exploitant du réseau en conviennent autrement par convention. Quand un réseau d’initiative publique est déployé sur des infrastructures d’accueil partagées avec un autre réseau ouvert au public, les frais d’entretien sont pris en charge par l’exploitant du premier réseau établi, sauf si les opérateurs concernés en conviennent autrement par convention. Sur le domaine public, les modalités de réalisation des coupes sont définies par la convention prévue au premier alinéa de l’article L. 46 ou par la permission de voirie prévue au troisième alinéa de l’article L. 47.
 
-« Par dérogation au premier alinéa du présent I, ces opérations sont accomplies par l'exploitant du réseau ouvert au public assurant des services fixes de communications électroniques :
+« Par dérogation au premier alinéa du présent I, ces opérations sont accomplies par l’exploitant du réseau ouvert au public assurant des services fixes de communications électroniques :
 
 « 1° Lorsque le propriétaire du terrain, le fermier ou leurs représentants ne sont pas identifiés ;
 
-« 2° Lorsque l'exploitant et le propriétaire du terrain, le fermier ou leurs représentants en sont convenus ainsi par convention, notamment lorsque les coûts exposés par ces opérations sont particulièrement élevés pour ces derniers ou lorsque la réalisation de ces opérations présente des difficultés techniques ou pratiques de nature à porter atteinte à la sécurité ou à l'intégrité des réseaux.
+« 2° Lorsque l’exploitant et le propriétaire du terrain, le fermier ou leurs représentants en sont convenus ainsi par convention, notamment lorsque la réalisation de ces opérations présente des difficultés techniques ou pratiques de nature à porter atteinte à la sécurité ou à l’intégrité des réseaux.
 
-« II. - En cas de défaillance de leur part, ces opérations sont accomplies par l'exploitant du réseau ouvert au public assurant des services fixes de communications électroniques, aux frais du propriétaire du terrain, du fermier ou de leurs représentants. L'exécution des travaux doit être précédée d'une notification aux intéressés, ainsi qu'au maire de la commune sur le territoire de laquelle la propriété est située. L'introduction des agents de l'exploitant en vue de procéder aux opérations d'entretien s'effectue selon les modalités prévues au huitième alinéa de l'article L. 48.
+« II. – En cas de défaillance de leur part, ces opérations sont accomplies par l’exploitant du réseau ouvert au public assurant des services fixes de communications électroniques, aux frais du propriétaire du terrain, du fermier ou de leurs représentants. L’exécution des travaux doit être précédée d’une notification aux intéressés, ainsi qu’au maire de la commune sur le territoire de laquelle la propriété est située. L’introduction des agents de l’exploitant en vue de procéder aux opérations d’entretien s’effectue selon les modalités prévues au huitième alinéa de l’article L. 48.
 
-« III. - Sans préjudice des procédures prévues aux articles L. 2212-2-2 du code général des collectivités territoriales et L. 114-2 du code de la voirie routière et de la procédure mise en oeuvre au titre de l'article L. 161-5 du code rural et de la pêche maritime, lorsque l'entretien des abords des équipements du réseau n'est pas assuré dans des conditions permettant de prévenir leur endommagement ou les risques d'interruption du service, le maire peut transmettre, au nom de l'État, une mise en demeure au propriétaire, en informant l'exploitant concerné de celle-ci. Si celle-ci reste infructueuse durant un délai de quinze jours, le maire peut notifier le constat de carence du propriétaire à l'exploitant aux fins qu'il procède lui-même aux travaux conformément au II du présent article. Si cette notification à l'exploitant reste elle-même infructueuse dans le délai de quinze jours, le maire peut faire procéder lui-même à ces opérations aux frais de l'exploitant, dans le respect des règles régissant les interventions des exploitants. »
+« III. – Sans préjudice des procédures prévues aux articles L. 2212‑2‑2 du code général des collectivités territoriales et L. 114‑2 du code de la voirie routière et de la procédure mise en œuvre au titre de l’article L. 161‑5 du code rural et de la pêche maritime, lorsque l’entretien des abords des équipements du réseau n’est pas assuré dans des conditions permettant de prévenir leur endommagement ou les risques d’interruption du service, le maire peut transmettre, au nom de l’État, une mise en demeure au propriétaire, en informant l’exploitant concerné de celle-ci. Si celle-ci reste infructueuse durant un délai de quinze jours, le maire peut notifier le constat de carence du propriétaire à l’exploitant afin qu’il procède lui-même aux travaux conformément au II du présent article. Si cette notification à l’exploitant reste elle‑même infructueuse dans le délai de quinze jours, le maire peut faire procéder lui‑même à ces opérations aux frais de l’exploitant, dans le respect des règles régissant les interventions des exploitants. »
 
-CHAPITRE II
-
+Chapitre II
 Facilitation des usages
 
-Article 40 AA (nouveau)
+Article 40 AAA (nouveau)
 
-Le Gouvernement remet au Parlement, dans les trois mois suivant la promulgation de la présente loi, un rapport sur les mesures nécessaires au développement des échanges dématérialisés, notamment l'identité numérique, la valeur probante des documents numériques ou numérisés et la certification de solutions de coffre-fort électronique.
+L’article 3 de la loi n° 2011-590 du 26 mai 2011 relative au prix du livre numérique est ainsi modifié :
 
-Article 40 A (nouveau)
+1° Sont ajoutés les mots : « ou hors de France » ;
 
-I. - À la première phrase de l'article L. 121-47 du code de la consommation, dans sa rédaction résultant de la loi n° 2014-344 du 17 mars 2014 relative à la consommation, après le mot : « destination », sont insérés les mots : « des numéros surtaxés ».
+2° Il est ajouté un alinéa ainsi rédigé :
 
-II. - Au IV de l'article 145 de la loi n° 2014-344 du 17 mars 2014 précitée, les mots : « au plus tôt dix-huit mois après l'entrée en vigueur » sont remplacés par les mots : « dans un délai de six mois à compter de la publication ».
+« Les professionnels commercialisant des livres numériques ne peuvent ni exiger de leurs acheteurs qu’ils règlent avec une carte bancaire française, ni limiter la possibilité d’achat aux clients dont l’adresse IP est située en France. »
+
+Article 40 AA
+I. – Le titre Ier du livre III du code des postes et des communications électroniques est complété par un article L. 136 ainsi rédigé :
+
+« Art. L. 136. – La preuve d’identité aux fins d’accéder à un service de communication au public en ligne peut être apportée par un moyen d’identification électronique.
+
+« Ce moyen d’identification électronique est présumé fiable jusqu’à preuve du contraire lorsqu’il répond aux prescriptions du cahier des charges établi par l’autorité nationale de sécurité des systèmes d’information et fixé par décret en Conseil d’État.
+
+« Cette autorité certifie la conformité des moyens d’identification électronique aux exigences de ce cahier des charges. »
+
+II. – Dans les conditions prévues à l’article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d’ordonnance toute mesure relevant du domaine de la loi afin de permettre de faciliter l’utilisation du processus d’identification électronique tel que défini à l’article L. 136 du code des postes et des communications électroniques par la personne concernée pour justifier de son identité, communiquer ou recevoir des informations ou documents demandés ou délivrés par les autorités publiques ou dans le cadre de transactions commerciales ou d’échanges entre particuliers et professionnels.
+
+Le Gouvernement est également autorisé à prendre par voie d’ordonnance toute mesure relevant du domaine de la loi afin d’adapter le cadre juridique existant ayant pour objet ou se rapportant à l’identification électronique et aux services de confiance par voie électronique au regard des dispositions du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
+
+Ces ordonnances sont prises dans le délai de douze mois à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de chaque ordonnance.
+
+Article 40 AB (nouveau)
+
+I. – Le titre Ier du livre III du code des postes et des communications électroniques est complété par un article L. 137 ainsi rédigé :
+
+« Art. L. 137. – Un service de coffre‑fort numérique est un service qui a pour objet :
+
+« a) la réception, le stockage, la suppression et la transmission de données ou documents électroniques dans des conditions permettant de justifier de leur intégrité et de l’exactitude de leur origine ;
+
+« b) la traçabilité des opérations réalisées sur ces documents ou données et la disponibilité de cette traçabilité pour l’utilisateur ;
+
+« c) l’identification de l’utilisateur lors de l’accès au service par un moyen d’identification électronique respectant les dispositions de l’article L. 136 du présent code ;
+
+« d) de garantir l’accès exclusif aux documents électroniques, données de l’utilisateur ou données associées au fonctionnement du service à cet utilisateur, aux tiers, autres que le prestataire de service de coffre‑fort numérique, explicitement autorisés par l’utilisateur à accéder à ces données et, le cas échéant, au prestataire de service de coffre‑fort numérique réalisant un traitement de ces documents ou données au bénéfice seul de l’utilisateur et après avoir recueilli son accord exprès dans le respect des dispositions relatives à la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés;
+
+« e) de donner la possibilité pour l’utilisateur de récupérer les documents et les données stockées dans un standard ouvert aisément réutilisable et exploitable par un système automatisé de traitements de données, sauf dans le cas des documents initialement déposés dans un format non ouvert ou non aisément réutilisable qui peuvent être restitués dans leur format d’origine, dans des conditions définies par décret.
+
+« Le service de coffre‑fort numérique peut également proposer des services de confiance au sens du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
+
+« Un coffre‑fort numérique peut bénéficier d’une certification établie selon un cahier des charges proposé par l’Agence nationale de la sécurité des systèmes d’information après avis de la Commission nationale de l’informatique et des libertés et approuvé par arrêté du ministre en charge de l’économie.
+
+« Les modalités de mise en œuvre du service de coffre‑fort numérique et de sa certification par l’État sont définies par décret en Conseil d’État après avis de la Commission nationale de l’informatique et des libertés. »
+
+II. – Après la section 10 bis du chapitre Ier du titre II du livre Ier du code de la consommation, est insérée une section 10 ter ainsi rédigée :
+
+« Section 10 ter :
+
+« Appellation de coffre‑fort numérique
+
+« Art. L. 121‑82‑3 – Le fournisseur qui se prévaut d’une offre de service de coffre‑fort numérique tel que défini à l’article L. 137 du code des postes et des communications électroniques aux a à e et qui ne respecte pas les obligations qui y sont énoncées est passible des sanctions prévues à l’article L. 121‑6 du présent code. »
+
+Article 40 A
+
+I. – À la première phrase de l’article L. 224-54 du code de la consommation, dans sa rédaction résultant de l’ordonnance n° 2016-301 du 14 mars 2016 relative à la partie législative du code de la consommation, après le mot : « destination », sont insérés les mots : « des numéros surtaxés ».
+
+II. – Le IV de l’article 145 de la loi n° 2014-344 du 17 mars 2014 précitée est abrogé.
+
+III (nouveau). – L’article L. 224-54 du code de la consommation, dans sa rédaction résultant de l’ordonnance n° 2016-301 du 14 mars 2016 relative à la partie législative du code de la consommation et du I du présent article, entre en vigueur six mois après la promulgation de la présente loi.
+
+Article 40 B (nouveau)
+
+Après le premier alinéa de l’article L. 112-11 du code des relations entre le public et l’administration, il est inséré un alinéa ainsi rédigé :
+
+« L’administration est également tenue de respecter l’obligation prévue au premier alinéa pour les envois effectués par tout usager résidant en France ou à l’étranger ou par toute autorité administrative étrangère lorsque celle-ci agit pour le compte d’un Français établi à l’étranger. »
+
+Article 40 C (nouveau)
+
+L’article L. 113-13 du code des relations entre le public et l’administration est ainsi rédigé :
+
+« Art. L. 113-13. – Lorsque les informations ou données nécessaires pour traiter la demande présentée par une personne ou la déclaration transmise par celle-ci peuvent être obtenues directement auprès d’une autre administration, dans les conditions prévues aux articles L. 114-8 et L. 114-9, la personne ou son représentant atteste sur l’honneur de l’exactitude des informations déclarées. Cette attestation se substitue à la production de pièces justificatives.
+
+« Un décret fixe la liste des pièces que les personnes n’ont plus à produire. »
+
+Article 40 D (nouveau)
+
+À la seconde phrase du premier alinéa de l’article L. 114-8 du code des relations entre le public et l’administration, les mots : « , pour ce qui concerne les entreprises, » sont supprimés.
+
+Article 40 E (nouveau)
+
+Le titre II du livre II du code des postes et des communications électroniques est ainsi modifié :
+
+1° L’article L. 42‑1 est complété par un IV ainsi rédigé :
+
+« IV. – L’Autorité de régulation des communications électroniques et des postes peut attribuer des autorisations d’utilisation de fréquences à des fins expérimentales selon les modalités prévues au présent article et, le cas échéant, à l’article L. 42‑2.
+
+« Ces autorisations peuvent préciser qu’au titre de l’activité nécessitant l’utilisation des ressources attribuées et pour une durée maximale de deux ans à compter de leur adoption, le titulaire n’est pas soumis à tout ou partie des droits et obligations attachés à l’attribution de ces ressources ou à l’exercice de l’activité d’opérateur de communications électroniques ou d’exploitant de réseau indépendant conformément aux titres Ier et II du présent livre.
+
+« Elles peuvent être assorties d’obligations relatives à l’information des utilisateurs finals concernant le caractère expérimental du service concerné. Elles sont assorties des conditions techniques et opérationnelles nécessaires pour éviter les brouillages préjudiciables.
+
+« L’Autorité de régulation des communications électroniques et des postes informe sans délai le ministre chargé des communications électroniques des dérogations accordées en application du deuxième alinéa du présent IV. Dans un délai d’un mois à compter de l’adoption de la décision, le ministre chargé des communications électroniques peut s’opposer, pour des motifs liés à la réalisation des objectifs mentionnés à l’article L. 32‑1, à l’octroi de tout ou partie de ces dérogations.
+
+« Un décret en Conseil d’État précise les modalités d’application du présent IV. » ;
+
+2° L’article L. 44 est complété par un IV ainsi rédigé :
+
+« IV. – L’Autorité de régulation des communications électroniques et des postes peut attribuer des ressources de numérotation et des codes à des fins expérimentales selon les modalités prévues au I.
+
+« Ces décisions peuvent préciser qu’au titre de l’activité nécessitant l’utilisation des ressources attribuées et pour une durée maximale de deux ans à compter de leur adoption, le titulaire n’est pas soumis à tout ou partie des droits et obligations attachés à l’attribution de ces ressources ou à l’exercice de l’activité d’opérateur de communications électroniques ou d’exploitant de réseau indépendant conformément aux titres Ier et II du présent livre.
+
+« Elles peuvent être assorties d’obligations relatives à l’information des utilisateurs finals concernant le caractère expérimental du service concerné.
+
+« L’Autorité de régulation des communications électroniques et des postes informe sans délai le ministre chargé des communications électroniques des dérogations accordées en application du deuxième alinéa du présent IV. Dans un délai d’un mois à compter de l’adoption de la décision, le ministre chargé des communications électroniques peut s’opposer, pour des motifs liés à la réalisation des objectifs mentionnés à l’article L. 32‑1, à l’octroi de tout ou partie de ces dérogations.
+
+« Un décret en Conseil d’État précise les modalités d’application du présent IV. »
 
 Section 1
-
 Recommandé électronique
 
 Article 40
 
-I. - Le livre III du code des postes et des communications électroniques est ainsi modifié :
+I. – Le livre III du code des postes et des communications électroniques est ainsi modifié :
 
-1° L'intitulé est ainsi rédigé : « Autres services, dispositions communes et finales » ;
+1° L’intitulé est ainsi rédigé : « Autres services, dispositions communes et finales » ;
 
 2° Le titre Ier devient le titre II et le titre II devient le titre III ;
 
 3° Il est rétabli un titre Ier ainsi rédigé :
 
 « TITRE IER
-
 « AUTRES SERVICES
 
-« Art. L. 100. - I. - Sans préjudice de l'article L. 112-15 du code des relations entre le public et l'administration, l'envoi recommandé électronique bénéficie des mêmes effets juridiques que l'envoi recommandé mentionné à l'article L. 1 du présent code lorsqu'il satisfait aux conditions suivantes :
+« Art. L. 100. – I. – L’envoi recommandé électronique est équivalent à l’envoi par lettre recommandée, dès lors qu’il satisfait aux exigences de l’article 44 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
 
-« 1° Il est distribué par un prestataire dûment reconnu comme prestataire de service de confiance qualifié pour les services d'envoi recommandé électronique au sens du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE ;
+« Dans le cas où le destinataire n’est pas un professionnel, celui-ci doit avoir exprimé à l’expéditeur son consentement à recevoir des envois recommandés électroniques.
 
-« 1° bis (nouveau) Le prestataire informe de manière claire, transparente et loyale les consommateurs sur la reconnaissance en tant que prestataire de service de confiance qualifié pour les services d'envoi recommandé au sens du même règlement ;
+« Le prestataire peut proposer que le contenu de l’envoi soit imprimé sur papier puis acheminé au destinataire dans les conditions fixées au livre Ier du présent code.
 
-« 2° Le procédé électronique utilisé permet d'identifier le prestataire, de désigner l'expéditeur, de garantir l'identité du destinataire et d'établir si l'envoi a été remis ou non au destinataire. Le destinataire doit donner son accord exprès pour l'utilisation d'un tel procédé ;
+« II. – Un décret en Conseil d’État fixe les modalités d’application du présent article, notamment :
 
-« 3° (nouveau) Le procédé permet d'adresser un avis de réception à l'expéditeur, par voie électronique ou par tout autre dispositif lui permettant de le conserver.
+« 1° Les exigences requises en matière :
 
-« Un décret en Conseil d'État précise les conditions et les modalités d'application des 1° à 3°, conformément au règlement (UE) n° 910/2014 du 23 juillet 2014 précité.
+« a) D’identification de l’expéditeur et du destinataire ;
 
-« II. - La responsabilité des prestataires de services d'envoi de recommandé électronique est engagée dans les conditions prévues aux articles 1134 et suivants et 1382 et suivants du code civil à raison des retards, pertes et avaries survenus lors de la prestation, selon des modalités fixées par un décret en Conseil d'État qui détermine des plafonds d'indemnisation.
+« b) De preuve du dépôt par l’expéditeur des données et du moment de ce dépôt ;
 
-« III. - L'Autorité de régulation des communications électroniques et des postes veille au respect, par les prestataires de services d'envoi de recommandé électronique, des obligations législatives et réglementaires afférentes à la prestation de services d'envoi de recommandé électronique. Elle sanctionne les manquements constatés dans les conditions prévues à l'article L. 36-11 du présent code. »
+« c) De preuve de la réception par le destinataire ou son mandataire des données transmises et du moment de cette réception ;
 
-II. - L'article L. 36-11 du même code est ainsi modifié :
+« d) D’intégrité des données transmises ;
 
-1° et 2° (Supprimés)
+« e) De remise, le cas échéant, de l’envoi recommandé électronique imprimé sur papier ;
 
-3° Au cinquième alinéa du I, après les mots : « l'exploitant », sont insérés les mots : « , le prestataire » ;
+« 2° Les informations que le prestataire d’un envoi recommandé électronique régi par le présent article doit porter à la connaissance du destinataire ;
 
-4° À la première phrase du II, tel qu'il résulte de l'article 19 de la présente loi, après le mot : « ligne », sont insérés les mots : « ou un prestataire de services d'envoi de recommandé électronique » ;
+« 3° Le montant de l’indemnité forfaitaire due par le prestataire dont la responsabilité est engagée, en cas de retard dans la réception, de perte, extraction, altération ou modification frauduleuse des données transmises lors de la prestation.
 
-5° Au quatrième alinéa du III, après les mots : « service de communications électroniques », sont insérés les mots : « ou une prestation de services d'envoi de recommandé électronique » ;
+« Art. L. 101. – Est puni d’une amende de 50 000 € le fait de proposer ou de fournir un service ne remplissant pas les conditions mentionnées à l’article L. 100 dans des conditions de nature à induire en erreur l’expéditeur ou le destinataire sur les effets juridiques de l’envoi. »
 
-6° Au VII, après le mot : « opérateur », sont insérés les mots : « , pour un prestataire de services d'envoi de recommandé électronique ».
+II. – A. – Les articles 1369‑7 et 1369‑8 du code civil sont abrogés.
+
+B. – Les quatre-vingt-dix neuvième à cent-cinquième alinéas de l’article 2 de l’ordonnance n° 2016‑131 du 10 février 2016 portant réforme du droit des contrats, du régime général et de la preuve des obligations sont supprimés et, au début du cent‑sixième alinéa du même article 2, la mention : « Art. 1127‑6. – » est remplacée par la mention : 
+« Art. 1127‑4. – ».
+
+III. – L’article L. 112‑15 du code des relations entre le public et l’administration est ainsi modifié :
+
+1° Au premier alinéa, après les mots : « entre les autorités administratives », sont insérés les mots : « , d’un envoi recommandé électronique au sens de l’article L. 100 du code des postes et communications électroniques » ;
+
+2° À la première phrase du deuxième alinéa, après les mots : « l’utilisation », sont insérés les mots : « d’un envoi recommandé électronique au sens de l’article L. 100 du code des postes et communications électroniques, ».
 
 Section 2
-
 Paiement par facturation 
-de l'opérateur de communications électroniques
+de l’opérateur de communications électroniques
 
 Article 41
 
-I. - Le code monétaire et financier est ainsi modifié :
+I. – Le code monétaire et financier est ainsi modifié :
 
-1° Après l'article L. 521-3, il est inséré un article L. 521-3-1 ainsi rédigé :
+1° Après l’article L. 521‑3, il est inséré un article L. 521‑3‑1 ainsi rédigé :
 
-« Art. L. 521-3-1. - I. - Par exception à l'interdiction prévue à l'article L. 521-2, un fournisseur de réseaux ou de services de communications électroniques peut fournir des services de paiement, en sus des services de communications électroniques, à un abonné à ce réseau ou à ce service, pour l'exécution :
+« Art. L. 521‑3‑1. – I. – Par exception à l’interdiction prévue à l’article L. 521‑2, un fournisseur de réseaux ou de services de communications électroniques peut fournir des services de paiement, en sus des services de communications électroniques, à un abonné à ce réseau ou à ce service, pour l’exécution :
 
-« 1° D'opérations de paiement effectuées pour l'achat de contenus numériques et de services vocaux, quel que soit le dispositif utiliseì pour l'achat ou la consommation de ces contenus numériques, et imputées sur la facture correspondante ;
+« 1° D’opérations de paiement effectuées pour l’achat de contenus numériques et de services vocaux, quel que soit le dispositif utilisé pour l’achat ou la consommation de ces contenus numériques, et imputées sur la facture correspondante ;
 
-« 2° D'opérations de paiement exécutées depuis un dispositif électronique ou au moyen de celui-ci et imputées sur la facture correspondante, dans le cadre de la collecte de dons par les organismes faisant appel public à la générosité au sens de la loi n° 91-772 du 7 août 1991 relative au congé de représentation en faveur des associations et des mutuelles et au contrôle des comptes des organismes faisant appel à la générosité publique ;
+« 2° D’opérations de paiement exécutées depuis un dispositif électronique ou au moyen de celui‑ci et imputées sur la facture correspondante, dans le cadre de la collecte de dons par les organismes faisant appel public à la générosité au sens de la loi n° 91‑772 du 7 août 1991 relative au congé de représentation en faveur des associations et des mutuelles et au contrôle des comptes des organismes faisant appel à la générosité publique ;
 
-« 3° D'opérations de paiement exécutées depuis un dispositif électronique ou au moyen de celui-ci et imputées sur la facture correspondante pour l'achat de tickets électroniques.
+« 3° D’opérations de paiement exécutées depuis un dispositif électronique ou au moyen de celui‑ci et imputées sur la facture correspondante pour l’achat de tickets électroniques.
 
-« La valeur de chaque opération de paiement isolée et la valeur mensuelle cumulée des opérations de paiement pour un même abonneì ne peuvent pas excéder, respectivement, les montants de 50 € et de 300 €.
+« La valeur de chaque opération de paiement isolée ne peut excéder le montant de 50 €.
 
-« Le présent I s'applique également lorsqu'un abonneì préfinance son compte auprès du fournisseur de réseaux ou de services de communications électroniques.
+« La valeur mensuelle cumulée des opérations de paiement pour un même abonné ne peut excéder le montant de 300 €. Dans le cas d’un abonnement souscrit à des fins professionnelles, ce montant s’apprécie au niveau de l’utilisateur final.
 
-« II. - Avant de commencer à exercer les activités mentionnées au I, le fournisseur de réseaux ou de services de communications électroniques adresse une déclaration à l'Autorité de contrôle prudentiel et de résolution, qui dispose d'un délai fixé par décret en Conseil d'État à compter de la réception de toutes les informations nécessaires pour notifier au déclarant que les conditions mentionnées au même I ne sont pas remplies.
+[ ]
 
-« Le fournisseur de réseaux ou de services de communications électroniques adresse à l'Autorité de contrôle prudentiel et de résolution un rapport annuel justifiant du respect des conditions mentionnées audit I.
+« Le présent I s’applique également lorsqu’un abonné préfinance son compte auprès du fournisseur de réseaux ou de services de communications électroniques.
 
-« Dès que le fournisseur de réseaux ou de services de communications électroniques prévoit de ne plus remplir les conditions mentionnées au même I, il dépose une demande d'agrément auprès de l'Autorité de contrôle prudentiel et de résolution en application de l'article L. 522-6.
+« II. – Avant de commencer à exercer les activités mentionnées au I, le fournisseur de réseaux ou de services de communications électroniques adresse une déclaration à l’Autorité de contrôle prudentiel et de résolution, qui dispose d’un délai de trois mois à compter de la réception de toutes les informations nécessaires pour notifier au déclarant que les conditions mentionnées au même I ne sont pas remplies.
 
-« Lorsque l'Autorité de contrôle prudentiel et de résolution notifie à un fournisseur de réseaux ou de services de communications électroniques que les conditions mentionnées au I du présent article ne sont plus remplies, il dispose d'un délai de trois mois pour prendre les mesures nécessaires pour respecter ces conditions ou pour déposer une demande d'agrément auprès de l'Autorité de contrôle prudentiel et de résolution en application de l'article L. 522-6.
+« Le fournisseur de réseaux ou de services de communications électroniques adresse à l’Autorité de contrôle prudentiel et de résolution un rapport annuel justifiant du respect des conditions mentionnées audit I.
 
-« Tant que l'Autorité de contrôle prudentiel et de résolution ne s'est pas prononcée sur l'octroi de l'agrément, le fournisseur de réseaux ou de services de communications électroniques veille à respecter les conditions prévues au I du présent article. » ;
+« Dès que le fournisseur de réseaux ou de services de communications électroniques prévoit de ne plus remplir les conditions mentionnées au même I, il dépose une demande d’agrément auprès de l’Autorité de contrôle prudentiel et de résolution en application de l’article L. 522‑6.
 
-2° Après l'article L. 525-6, il est inséré un article L. 525-6-1 ainsi rédigé :
+« Lorsque l’Autorité de contrôle prudentiel et de résolution notifie à un fournisseur de réseaux ou de services de communications électroniques que les conditions mentionnées au I du présent article ne sont plus remplies, il dispose d’un délai de trois mois pour prendre les mesures nécessaires pour respecter ces conditions ou pour déposer une demande d’agrément auprès de l’Autorité de contrôle prudentiel et de résolution en application de l’article L. 522‑6.
 
-« Art. L. 525-6-1. - I. - Par dérogation à l'article L. 525-3, un fournisseur de réseaux ou de services de communications électroniques peut émettre et gérer de la monnaie électronique, en sus des services de communications électroniques, pour un abonneì au réseau ou au service, pour l'exécution :
+« Tant que l’Autorité de contrôle prudentiel et de résolution ne s’est pas prononcée sur l’octroi de l’agrément, le fournisseur de réseaux ou de services de communications électroniques veille à respecter les conditions prévues au I du présent article. » ;
 
-« 1° D'opérations de paiement effectuées pour l'achat de contenus numériques et de services vocaux, quel que soit le dispositif utiliseì pour l'achat ou la consommation de ces contenus numériques, et imputées sur la facture correspondante ;
+2° Après l’article L. 525‑6, il est inséré un article L. 525‑6‑1 ainsi rédigé :
 
-« 2° D'opérations de paiement exécutées depuis un dispositif électronique ou au moyen de celui-ci et imputées sur la facture correspondante, dans le cadre de la collecte de dons par les organismes faisant appel public à la générosité, au sens de la loi n° 91-772 du 7 août 1991 relative au congé de représentation en faveur des associations et des mutuelles et au contrôle des comptes des organismes faisant appel à la générosité publique ;
+« Art. L. 525‑6‑1. – I. – Par dérogation à l’article L. 525‑3, un fournisseur de réseaux ou de services de communications électroniques peut émettre et gérer de la monnaie électronique, en sus des services de communications électroniques, pour un abonné au réseau ou au service, pour l’exécution :
 
-« 3° D'opérations de paiement exécutées depuis un dispositif électronique ou au moyen de celui-ci et imputées sur la facture correspondante pour l'achat de tickets électroniques.
+« 1° D’opérations de paiement effectuées pour l’achat de contenus numériques et de services vocaux, quel que soit le dispositif utilisé pour l’achat ou la consommation de ces contenus numériques, et imputées sur la facture correspondante ;
 
-« La valeur de chaque opération de paiement isolée et la valeur mensuelle cumulée des opérations de paiement pour un même abonneì ne peuvent pas excéder, respectivement, les montants de 50 € et de 300 €.
+« 2° D’opérations de paiement exécutées depuis un dispositif électronique ou au moyen de celui‑ci et imputées sur la facture correspondante, dans le cadre de la collecte de dons par les organismes faisant appel public à la générosité, au sens de la loi n° 91‑772 du 7 août 1991 relative au congé de représentation en faveur des associations et des mutuelles et au contrôle des comptes des organismes faisant appel à la générosité publique ;
 
-« Le présent I s'applique également lorsqu'un abonneì préfinance son compte auprès du fournisseur de réseaux ou de services de communications électroniques.
+« 3° D’opérations de paiement exécutées depuis un dispositif électronique ou au moyen de celui‑ci et imputées sur la facture correspondante pour l’achat de tickets électroniques.
 
-« II. - Avant de commencer à exercer les activités mentionnées au I, le fournisseur de réseaux ou de services de communications électroniques adresse une déclaration à l'Autorité de contrôle prudentiel et de résolution, qui dispose d'un délai fixé par décret en Conseil d'État à compter de la réception de toutes les informations nécessaires pour notifier au déclarant que les conditions mentionnées au même I ne sont pas remplies.
+« La valeur de chaque opération de paiement isolée ne peut excéder le montant de 50 €.
 
-« Le fournisseur de réseaux ou de services de communications électroniques adresse à l'Autorité de contrôle prudentiel et de résolution un rapport annuel justifiant du respect des conditions mentionnées audit I.
+« La valeur mensuelle cumulée des opérations de paiement pour un même abonné ne peut excéder le montant de 300 €. Dans le cas d’un abonnement souscrit à des fins professionnelles, ce montant s’apprécie au niveau de l’utilisateur final.
 
-« Dès que le fournisseur de réseaux ou de services de communications électroniques prévoit de ne plus remplir les conditions mentionnées au même I, il dépose une demande d'agrément auprès de l'Autorité de contrôle prudentiel et de résolution en application de l'article L. 526-7.
+[ ]
 
-« Lorsque l'Autorité de contrôle prudentiel et de résolution notifie à un fournisseur de réseaux ou de services de communications électroniques que les conditions mentionnées au I du présent article ne sont plus remplies, il dispose d'un délai de trois mois pour prendre les mesures nécessaires pour respecter ces conditions précitées ou pour déposer une demande d'agrément auprès de l'Autorité de contrôle prudentiel et de résolution en application de l'article L. 526-7.
+« Le présent I s’applique également lorsqu’un abonné préfinance son compte auprès du fournisseur de réseaux ou de services de communications électroniques.
 
-« Tant que l'Autorité de contrôle prudentiel et de résolution ne s'est pas prononcée sur l'octroi de l'agrément, le fournisseur de réseaux ou de services de communications électroniques veille à respecter les conditions prévues au I du présent article. » ;
+« II. – Avant de commencer à exercer les activités mentionnées au I, le fournisseur de réseaux ou de services de communications électroniques adresse une déclaration à l’Autorité de contrôle prudentiel et de résolution, qui dispose d’un délai de trois mois à compter de la réception de toutes les informations nécessaires pour notifier au déclarant que les conditions mentionnées au même I ne sont pas remplies.
 
-3° Le 1° de l'article L. 311-4 est abrogé ;
+« Le fournisseur de réseaux ou de services de communications électroniques adresse à l’Autorité de contrôle prudentiel et de résolution un rapport annuel justifiant du respect des conditions mentionnées audit I.
 
-4° Au premier alinéa, à la première phrase du deuxième alinéa et aux trois derniers alinéas du II de l'article L. 521-3 et aux deux premiers alinéas et aux trois derniers alinéas de l'article L. 525-6, la référence : « ou au 1° de l'article L. 311-4 » est supprimée ;
+« Dès que le fournisseur de réseaux ou de services de communications électroniques prévoit de ne plus remplir les conditions mentionnées au même I, il dépose une demande d’agrément auprès de l’Autorité de contrôle prudentiel et de résolution en application de l’article L. 526‑7.
 
-5° (nouveau) Au second alinéa de l'article L. 526-11, la référence : « ou du 1° de l'article L. 311-4 » est supprimée.
+« Lorsque l’Autorité de contrôle prudentiel et de résolution notifie à un fournisseur de réseaux ou de services de communications électroniques que les conditions mentionnées au I du présent article ne sont plus remplies, il dispose d’un délai de trois mois pour prendre les mesures nécessaires pour respecter ces conditions précitées ou pour déposer une demande d’agrément auprès de l’Autorité de contrôle prudentiel et de résolution en application de l’article L. 526‑7.
 
-II. - La date d'entrée en vigueur du présent article est fixée par décret conformément aux articles 115 et 116 de la directive 2015/2366/UE du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur et modifiant les directives 2002/65/CE, 2013/36/UE et le règlement (UE) n° 1099/2010 et abrogeant la directive 2007/64/CE.
+« Tant que l’Autorité de contrôle prudentiel et de résolution ne s’est pas prononcée sur l’octroi de l’agrément, le fournisseur de réseaux ou de services de communications électroniques veille à respecter les conditions prévues au I du présent article. » ;
+
+3° Le 1° de l’article L. 311‑4 est abrogé ;
+
+4° Au premier alinéa, à la première phrase du deuxième alinéa et aux trois derniers alinéas du II de l’article L. 521‑3 et aux deux premiers alinéas et aux trois derniers alinéas de l’article L. 525‑6, les mots : « ou au 1° de l’article L. 311‑4 » sont supprimés ;
+
+5° Au second alinéa de l’article L. 526-11, les mots : « du 1° de l’article L. 311-4 » sont remplacés par les mots : « de l’article L. 525-6-1 ».
+
+II. – (Supprimé)
+
+Section 2 bis
+Régulation des jeux en ligne
+
+(Division et intitulé nouveaux)
+
+Article 41 bis (nouveau)
+
+La loi n° 2010-476 du 12 mai 2010 relative à l’ouverture à la concurrence et à la régulation du secteur des jeux d’argent et de hasard en ligne est ainsi modifiée :
+
+1° Le II de l’article 14 est complété par deux alinéas ainsi rédigés :
+
+« Toutefois, par dérogation au premier alinéa, l’Autorité de régulation des jeux en ligne peut autoriser un opérateur titulaire de l’agrément prévu à l’article 21 à proposer aux joueurs titulaires d’un compte validé sur un site faisant l’objet de l’agrément de participer à des jeux de cercle tels que définis au premier alinéa avec les joueurs titulaires d’un compte ouvert sur un site faisant l’objet d’un agrément par un État membre de l’Union européenne ou d’un État partie à l’accord sur l’Espace économique européen.
+
+« Cette autorisation est subordonnée à l’existence d’une convention conclue dans les conditions prévues au deuxième alinéa du V de l’article 34. Elle détermine les obligations particulières imposées à l’opérateur afin de permettre l’exercice du contrôle de son activité par l’Autorité de régulation des jeux en ligne. » ;
+
+2° Le V de l’article 34 est complété par un alinéa ainsi rédigé :
+
+« De telles conventions peuvent également être conclues au nom de l’État par le président de l’autorité pour déterminer les modalités de mise en œuvre et de contrôle des offres de jeux de cercle mentionnées aux troisième et quatrième alinéa du II de l’article 14. Ces conventions prévoient les conditions dans lesquelles l’Autorité de régulation des jeux en ligne et l’autorité de régulation des jeux concernée échangent toute information ou document nécessaire à l’exercice de leurs missions, notamment en matière de prévention des activités frauduleuses ou criminelles ainsi que du blanchiment de capitaux du financement du terrorisme. »
+
+Article 41 ter (nouveau)
+
+Après la première phrase du deuxième alinéa de l’article 26 de la loi n° 2010-476 du 12 mai 2010 précitée, il est inséré une phrase ainsi rédigée :
+
+« Il met également en place, pour les jeux de cercle en ligne, un dispositif d’autolimitation de temps de jeu effectif. »
+
+Article 41 quater (nouveau)
+
+L’article 61 de la loi n° 2010-476 du 12 mai 2010 précitée est ainsi modifié :
+
+1° Au début de la première phrase du premier alinéa, sont ajoutés les mots : « Le président de » ;
+
+2° Après le même premier alinéa, il est inséré un alinéa ainsi rédigé :
+
+« Il adresse également aux personnes mentionnées au 2 du I de l’article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique, par tout moyen propre à en établir la date de réception, une copie de la mise en demeure prévue au premier alinéa du présent article et leur enjoint de prendre toute mesure propre à empêcher l’accès au contenu du service de communication au public en ligne proposé par l’opérateur mentionné au même premier alinéa. Ces personnes sont invitées à présenter leurs observations dans un délai de huit jours. » ;
+
+3° Le deuxième alinéa est ainsi modifié :
+
+a) Les mots : « par l’opérateur intéressé de l’injonction de cesser son activité d’offre et de paris ou de jeux d’argent et de hasard » sont remplacés par les mots : « des injonctions prévues aux premier et deuxième alinéas du présent article ou si l’offre de paris ou de jeux d’argent et de hasard en ligne reste accessible » et les mots : « 2 du I et, le cas échéant, au » sont supprimés ;
+
+b) Est ajoutée une phrase ainsi rédigée :
+
+« Il peut également saisir le président du tribunal de grande instance de Paris aux mêmes fins si l’offre demeure accessible nonobstant l’éventuelle exécution par les personnes mentionnées au deuxième alinéa sans avoir à procéder à de nouvelles injonctions de même nature. »
+
+Article 41 quinquies (nouveau)
+
+La loi n° 2010-476 du 12 mai 2010 relative à l’ouverture à la concurrence et à la régulation du secteur des jeux d’argent et de hasard en ligne est ainsi modifiée :
+
+1° Le début du premier alinéa du IV de l’article 34 est ainsi rédigé : «  En vue de lutter contre l’addiction au jeu, l’Autorité de régulation des jeux en ligne peut mener, seule ou avec toute personne intéressée à la réalisation de cet objectif, toute action en direction des opérateurs agréés ou de leurs joueurs. Elle évalue… (le reste sans changement). » ;
+
+2° Avant le dernier alinéa de l’article 38, il est inséré un alinéa ainsi rédigé :
+
+« L’Autorité de régulation des jeux en ligne peut également disposer des données précitées en vue de l’accomplissement des missions énoncées au IV de l’article 34 de la présente loi, dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés. »
+
+Article 41 sexies (nouveau)
+
+La loi n° 2010-476 du 12 mai 2010 relative à l’ouverture à la concurrence et à la régulation du secteur des jeux d’argent et de hasard en ligne est ainsi modifiée :
+
+1° Au I de l’article 35, après les mots : « des sanctions », sont insérés les mots : « , un médiateur, » ;
+
+2° Après l’article 45, sont insérés des articles 45-1 et 45-2 ainsi rédigés :
+
+« Art. 45-1. – L’Autorité de régulation des jeux en ligne comprend un médiateur nommé par le président de l’autorité après avis du collège, pour une durée de trois ans renouvelable.
+
+« Il est irrévocable pendant la durée de son mandat, sauf pour motif légitime et dans les cas prévus au titre Ier du livre VI du code de la consommation.
+
+« Les fonctions de médiateur sont incompatibles avec celles de membre du collège et de la commission des sanctions.
+
+« Le médiateur dispose de moyens suffisants à l’exercice indépendant et impartial de son mandat et ne peut recevoir d’instructions sur les litiges dont il a à connaître.
+
+« Le médiateur présente au collège de l’autorité un rapport annuel dans lequel il rend compte de sa mission. Ce rapport est rendu public. Il peut y émettre des recommandations et avis.
+
+« Art. 45-2. – Le médiateur est chargé de recommander des solutions aux litiges nés entre consommateur et un opérateur de jeux ou de paris en ligne titulaire de l’agrément prévu à l’article 21 à l’occasion de la formation ou de l’exécution du contrat cité au 3° de l’article 10.
+
+« Il accomplit sa mission de médiation dans les conditions prévues au titre Ier du livre VI du code de la consommation.
+
+« La saisine du médiateur de l’Autorité de régulation des jeux en ligne dans le cadre du règlement extrajudiciaire des différends suspend la prescription de toute action civile ou pénale à compter du jour où le médiateur est saisi. »
+
+Article 41 septies (nouveau)
+
+Après le troisième alinéa de l’article 61 de la loi n° 2010-476 du 12 mai 2010 relative à l’ouverture à la concurrence et à la régulation du secteur des jeux d’argent et de hasard en ligne, il est inséré un alinéa ainsi rédigé :
+
+« Le président de l’Autorité de régulation des jeux en ligne peut saisir par requête le président du tribunal de grande instance de Paris aux mêmes fins lorsque ce service de communication en ligne est accessible à partir d’autres adresses. »
 
 Section 3
-
 Compétitions de jeux vidéo
 
 Article 42
 
-I. - Un agrément peut être délivré par le ministre chargé de la jeunesse aux organisateurs de compétitions de jeux vidéo, notamment à dominante sportive, requérant la présence physique des joueurs, qui présentent des garanties visant à :
+I. – Après le chapitre Ier du titre II du livre III du code de la sécurité intérieure, il est inséré un chapitre Ier bis ainsi rédigé :
 
-1° Assurer l'intégrité, la fiabilité et la transparence des compétitions ;
+« Chapitre Ier bis
+« Compétitions de jeux vidéo
 
-2° Protéger les mineurs ;
+« Art. L. 321-8. – Pour l’application du présent chapitre, est entendu comme jeu vidéo tout jeu relevant de l’article 220 terdecies II du code général des impôts.
 
-3° Prévenir les activités frauduleuses ou criminelles ;
+« Une compétition de jeux vidéo confronte, à partir d’un jeu vidéo, au moins deux joueurs ou équipes de joueurs pour un score ou une victoire.
 
-4° Prévenir les atteintes à la santé publique.
+« L’organisation de la compétition de jeux vidéo au sens du présent chapitre n’inclut pas l’organisation d’une prise de paris.
 
-II. - Un arrêté du ministre chargé de la jeunesse fixe la liste des logiciels de loisirs, sur un support physique ou en ligne, s'appuyant sur une trame scénarisée ou des situations simulées, pour lesquels les organisateurs de compétitions peuvent bénéficier de l'agrément prévu au I du présent article.
+« Art. L. 321-9. – Sont exceptées des dispositions des articles L. 322-1, L. 322-2 et L. 322-2-1 les compétitions de jeux vidéo organisées en la présence physique des participants, pour lesquelles le montant total des droits d’inscription ou des autres sacrifices financiers consentis par les joueurs n’excède pas une fraction, dont le taux est fixé par décret en Conseil d’État, du coût total d’organisation de la manifestation incluant le montant total des gains et lots proposés. Ce taux peut varier en fonction du montant total des recettes collectées en lien avec la manifestation.
 
-Ces logiciels de loisirs font prédominer, dans l'issue de la compétition, les combinaisons de l'intelligence et l'habilité des joueurs, en mettant à leur disposition des commandes et des interactions se traduisant sous formes d'images animées, sonorisées ou non, et visant à la recherche de performances physiques virtuelles ou intellectuelles.
+« Lorsque le montant total des gains et lots excède un montant fixé par décret en Conseil d’État, les organisateurs de ces compétitions justifient de l’existence d’un instrument ou mécanisme, pris au sein d’une liste fixée par ce même décret, garantissant le reversement de la totalité des gains ou lots mis en jeu.
 
-L'arrêté fixe également, pour chaque logiciel de loisirs, l'âge minimal requis des joueurs pour participer à la compétition.
+« Leurs organisateurs déclarent à l’autorité administrative, dans des conditions fixées par décret en Conseil d’État, la tenue de telles compétitions. Cette déclaration comporte les éléments permettant à l’autorité administrative d’apprécier le respect des conditions prévues aux premier et second alinéas.
 
-III. - Les compétitions pour lesquelles les organisateurs bénéficient de l'agrément prévu au I du présent article ne sont pas soumises aux articles L. 322-1 à L. 322-2-1 du code de la sécurité intérieure.
+« Art. L. 321-10. – La participation des mineurs aux compétitions de jeux vidéo peut être autorisée dans des conditions définies par décret en Conseil d’État. Elle est conditionnée au recueil de l’autorisation du représentant légal du mineur. Le représentant légal est informé des enjeux financiers de la compétition et des jeux utilisés comme support de celle-ci. Cette information comprend notamment la référence à la signalétique prévue à l’article 32 de la loi n° 98-468 du 17 juin 1998 relative à la prévention et à la répression des infractions sexuelles ainsi qu’à la protection des mineurs.
 
-Il en est de même des phases de qualification de ces compétitions se déroulant en ligne, dès lors qu'aucun sacrifice financier de nature à accroître l'espérance de gain du joueur ou de son équipe n'est exigé par l'organisateur.
+« L’article L. 7124-9 du code du travail s’applique aux rémunérations de toute nature perçues pour l’exercice d’une pratique compétitive du jeu vidéo par des mineurs de moins de seize ans soumis à l’obligation scolaire.
 
-CHAPITRE III
+« Art. L. 321-11 (nouveau). – Pour les compétitions de jeux vidéo se déroulant en ligne et pour les phases qualificatives se déroulant en ligne des compétitions de jeux vidéo, les frais d’accès à internet et le coût éventuel d’acquisition du jeu vidéo servant de support à la compétition ne constituent pas un sacrifice financier au sens de l’article L. 322-2. »
+
+II. – L’article L. 7124-1 du code du travail est complété par un 4° ainsi rédigé :
+
+« 4° Dans une entreprise ou association ayant pour objet la participation à des compétitions de jeux vidéo au sens de l’article L. 321-8 du code de la sécurité intérieure. »
+
+III. – (Supprimé)
+
+Article 42 bis A (nouveau)
+
+I. – Le joueur professionnel de jeu vidéo compétitif salarié est défini comme toute personne ayant pour activité rémunérée l’exercice d’une activité de jeu vidéo compétitif dans un lien de subordination juridique avec une association ou une société bénéficiant d’un agrément du ministre chargé du numérique, précisé par voie réglementaire. 
+
+II. – Le code du travail est applicable au joueur professionnel de jeu vidéo compétitif salarié, à l’exception des articles L. 1221-2, L. 1241-1 à L. 1242-9, L. 1242-12, L. 1242‑13, L. 1242-17, L. 1243-7 à L. 1243-10, L. 1243-13 à L. 1245-1, L. 1246-1 et L. 1248-1 à L. 1248-11 relatives au contrat de travail à durée déterminée. 
+
+III. – Afin d'assurer la protection des joueurs professionnels de jeu vidéo compétitif et de garantir l’équité des compétitions, tout contrat par lequel une association ou une société bénéficiant de l’agrément prévu au I du présent article s’assure, moyennant rémunération, le concours de l’un de ces salariés est un contrat de travail à durée déterminée.
+
+IV. – La durée d’un contrat de travail mentionné au III ne peut être inférieure à la durée d'une saison de jeu vidéo compétitif de douze mois.
+
+Toutefois, un contrat conclu en cours de saison de compétition de jeu vidéo compétitif peut avoir une durée inférieure à douze mois, dans des conditions précisées par voie réglementaire :
+
+1° Dès lors qu’il court au minimum jusqu’au terme de la saison de jeu vidéo compétitif ;
+
+2° S’il est conclu pour assurer le remplacement d’un joueur professionnel de jeu vidéo compétitif en cas d’absence du joueur professionnel ou de suspension de son contrat de travail.
+
+Les modalités de détermination des dates de début et de fin des saisons de jeu vidéo compétitif sont précisées par voie réglementaire.
+
+La durée du contrat de travail mentionné au III ne peut être supérieure à cinq ans.
+
+Afin d’assurer la protection des joueurs professionnels de jeu vidéo compétitif et de garantir l’équité des compétitions, la durée maximale mentionnée à l’avant-dernier alinéa du présent IV n’exclut pas le renouvellement du contrat ou la conclusion d’un nouveau contrat avec le même employeur.
+
+V. – Le contrat de travail à durée déterminée est établi par écrit en au moins trois exemplaires et comporte la mention des I à VIII du présent article.
+
+Il comporte :
+
+1° L’identité et l’adresse des parties ;
+
+2° La date d’embauche et la durée pour laquelle il est conclu ;
+
+3° La désignation de l’emploi occupé et les activités auxquelles participe le salarié ;
+
+4° Le montant de la rémunération et de ses différentes composantes, y compris les primes et accessoires de salaire s’il en existe ;
+
+5° Les noms et adresses des caisses de retraite complémentaire et de prévoyance et de l’organisme assurant la couverture maladie complémentaire ;
+
+6° L’intitulé des conventions ou accords collectifs applicables.
+
+Le contrat de travail à durée déterminée est transmis par l’employeur au joueur professionnel de jeu vidéo compétitif au plus tard dans les deux jours ouvrables suivant l’embauche. 
+
+VI. – Les clauses de rupture unilatérale pure et simple du contrat de travail à durée déterminée du joueur professionnel de jeu vidéo compétitif salarié sont nulles et de nul effet.
+
+VII. – Est réputé à durée indéterminée tout contrat conclu en méconnaissance des règles de fond et de forme prévues aux II à V du présent article.
+
+Le fait de méconnaître les règles de fond et de forme prévues aux III, IV et au premier alinéa du V est puni d’une amende de 3 750 €. La récidive est punie d’une amende de 7 500 € et d’un emprisonnement de six mois.
+
+VIII. – Tout au long de l’exécution du contrat de travail à durée déterminée d’un joueur professionnel de jeu vidéo compétitif, l’association ou la société bénéficiant de l’agrément prévu au I du présent article qui l’emploie offre au joueur professionnel salarié des conditions de préparation et d’entraînement équivalentes à celles des autres joueurs professionnels salariés de l’association ou de la société.
+
+Section 4
+Simplification des ventes immobilières
+
+(Division et intitulé nouveaux)
+
+Article 42 bis (nouveau)
+
+I. – Dans les conditions prévues à l’article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d’ordonnance toute mesure relevant du domaine de la loi afin de favoriser, avec le consentement exprès du destinataire lorsqu’il n’est pas un professionnel, la dématérialisation par le développement de l’envoi de documents par voie électronique, de l’usage de la signature électronique et de la lettre recommandée électronique dans les relations entre :
+
+1° Les mandants et leurs mandataires dans le cadre de l’exercice des activités d’entremise et de gestion des immeubles et fonds de commerce réglementées par la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d’exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce ;
+
+2° Les bailleurs et les locataires de biens immobiliers ou de fonds de commerce ;
+
+3° Les vendeurs et les acquéreurs pour les actes sous seing privé constatant des transactions portant sur des immeubles, des fonds de commerce ou de parts sociales non négociables lorsque l’actif social comprend un immeuble ou un fonds de commerce ;
+
+4° Les diagnostiqueurs et leurs clients dans l’exécution de leurs missions ;
+
+5° Ainsi que celles régies par la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis.
+
+II. – L’ordonnance prévue au I du présent article est prise dans un délai d’un an suivant la promulgation de la présente loi.
+
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de cinq mois à compter de la publication de l’ordonnance.
+
+Article 42 ter (nouveau)
+
+I. – Dans les conditions prévues à l’article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d’ordonnance les mesures relevant du domaine de la loi permettant, par voie dématérialisée sur un support durable et accessible au client, de remettre, fournir, mettre à disposition ou communiquer des informations ou des documents relatifs à un contrat régi par le code monétaire et financier, le code des assurances, le code de la mutualité, le titre III du livre IX du code de la sécurité sociale ou le livre III du code de la consommation, ainsi que de conclure ou de modifier ces contrats, le cas échéant via une signature électronique, ces supports dématérialisés se substituant, avec le consentement exprès du client, aux documents écrits sur support papier, tout en garantissant au client une protection au moins équivalente.
+
+II. – L’ordonnance prévue au I du présent article est prise dans un délai d’un an suivant la promulgation de la présente loi.
+
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de cinq mois à compter de la promulgation de l’ordonnance.
+
+Section 5
+Neutralité de la numérotation des chaînes de télévision nationales en clair diffusées par voie hertzienne terrestre en mode numérique
+
+(Division et intitulé nouveaux)
+
+Article 42 quater (nouveau)
+
+I. – La loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication est ainsi modifiée :
+
+1° La dernière phrase du deuxième alinéa de l’article 3-1 est ainsi rédigée :
+
+« Il veille au respect de la numérotation logique s’agissant de la reprise des services nationaux de télévision en clair diffusés par voie hertzienne terrestre en mode numérique, selon les modalités prévues à l’article 34-4, et au caractère équitable, transparent, homogène et non discriminatoire de la numérotation des autres services de télévision dans les offres de programmes des distributeurs de services. » ;
+
+2° Le second alinéa de l’article 34-4 est ainsi rédigé :
+
+« Sur le territoire métropolitain, les distributeurs de services dont l’offre de programmes comprend des services nationaux de télévision en clair diffusés par voie hertzienne terrestre en mode numérique doivent proposer la numérotation logique définie par le Conseil supérieur de l’audiovisuel pour ces services. Ils peuvent également proposer au téléspectateur la possibilité d’opter à tout moment, explicitement et de manière réversible, pour une numérotation différente qui présente un caractère équitable, transparent, homogène et non discriminatoire. Les conditions de mise à disposition de cette offre sont fixées par le Conseil supérieur de l’audiovisuel. »
+
+II. –  Le I du présent article s’applique à compter du 1er janvier 2017.
+
+Chapitre III
 
 Accès des publics fragiles au numérique
 
 Section 1
-
 Accès des personnes handicapées aux services téléphoniques
 
 Article 43
 
-I. - L'article 78 de la loi n° 2005-102 du 11 février 2005 sur l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées est ainsi modifié :
+I. – Après le o du I de l’article L. 33-1 du code des postes et des communications électroniques, il est inséré un p ainsi rédigé :
 
-1° (nouveau) Le premier alinéa est ainsi modifié :
+« p) Un accès des utilisateurs finals sourds, malentendants, sourdaveugles et aphasiques à une offre de services de communications électroniques, incluant pour les appels passés et reçus, la fourniture d’un service de traduction simultanée écrite et visuelle tel que défini au IV de l’article 43 de la loi n°      du         pour une République numérique.
+
+« Cette offre est proposée sans surcoût aux utilisateurs finals, dans la limite d’un usage raisonnable dont les conditions sont définies par décret et dans le respect de conditions de qualité définies par l’Autorité de régulation des communications électroniques et des postes.
+
+« Elle garantit les conditions de neutralité et de confidentialité mentionnées au b du présent I ainsi que la prévention de la violation des données à caractère personnel mentionnée à l’article 34 bis de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; ».
+
+II. – L’article 78 de la loi n° 2005-102 du 11 février 2005 pour l’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées est ainsi modifié :
+
+1° Le premier alinéa est ainsi modifié :
 
 a) Les mots : « déficientes auditives » sont remplacés par les mots : « sourdes et malentendantes » ;
 
-b) Les mots : « écrite simultanée » sont remplacés par les mots : « simultanée écrite » ;
+b) Les mots : « écrite simultanée ou visuelle » sont remplacés par les mots : « simultanée écrite et visuelle » ;
 
-2° Après le même alinéa, il est inséré un alinéa ainsi rédigé :
+2° Après le même premier alinéa, sont insérés deux alinéas ainsi rédigés :
 
-« Les services d'accueil téléphonique destinés à recevoir les appels des usagers sont accessibles aux personnes sourdes et malentendantes par la mise à disposition d'un service de traduction écrite simultanée et visuelle. Les numéros de téléphones concernés sont accessibles directement ou, à défaut, par l'intermédiaire d'une plateforme en ligne dédiée délivrant le service de traduction écrite et visuelle. L'accessibilité est soit assurée directement par le service public, soit confiée par le service public, sous sa responsabilité, à un opérateur spécialisé qui en assure la mise en oeuvre et l'exécution. » ;
+« Les services d’accueil téléphonique destinés à recevoir les appels des usagers sont accessibles aux personnes sourdes, malentendantes, sourdaveugles et aphasiques par la mise à disposition d’un service de traduction écrite simultanée et visuelle tel que défini au IV de l’article 43 de la loi n°    du       pour une République numérique, sans surcoût pour les utilisateurs finals et à la charge des services publics concernés.
 
-3° (nouveau) Après le deuxième alinéa, il est inséré un alinéa ainsi rédigé :
+« Les services d’accueil téléphonique sont accessibles directement ou, à défaut, par l’intermédiaire d’une plateforme en ligne dédiée délivrant le service de traduction écrite et visuelle. L’accessibilité est soit assurée directement par le service public, soit confiée par le service public, sous sa responsabilité, à un opérateur spécialisé qui en assure la mise en œuvre et l’exécution. » ;
 
-« Le service de traduction ou le dispositif de communication adapté mentionnés aux trois premiers alinéas garantissent le respect de la confidentialité des conversations traduites ou transcrites. »
+3° Après le deuxième alinéa, il est inséré un alinéa ainsi rédigé :
 
-II. - L'article L. 113-5 du code de la consommation est complété par un alinéa ainsi rédigé :
+« Le service de traduction ou le dispositif de communication adapté mentionnés aux trois premiers alinéas du présent article garantissent le respect de la confidentialité des conversations traduites ou transcrites. »
 
-« Les acteurs économiques du secteur privé qui vendent, offrent ou proposent directement aux consommateurs ou aux bénéficiaires des biens et des services rendent accessibles leurs services d'accueil téléphonique aux personnes sourdes et malentendantes par la mise à disposition d'un service de traduction écrite simultanée et visuelle. Les numéros de téléphone concernés sont accessibles directement ou, à défaut, par l'intermédiaire d'une plateforme en ligne dédiée délivrant le service de traduction écrite et visuelle. L'accessibilité est soit assurée directement par l'acteur économique, soit confiée par l'acteur économique, sous sa responsabilité, à un opérateur spécialisé qui en assure la mise en oeuvre et l'exécution. Un décret précise les modalités d'application dans le temps du présent alinéa sachant qu'il ne peut prévoir la mise en place de ce dispositif au delà de cinq années après la promulgation de la loi n°     du      pour une République numérique. »
+III. – La section 4 du chapitre IV du titre II du livre II du code de la consommation, dans sa rédaction résultant de l’ordonnance n° 2016-301 du 14 mars 2016 relative à la partie législative du code de la consommation, est complétée par une sous-section ainsi rédigée :
 
-III. - Après le o du I de l'article L. 33-1 du code des postes et des communications électroniques, il est inséré un p ainsi rédigé :
+« Sous-section 3
+« Service téléphonique d’accueil et d’assistance
 
-« p) Un accès des utilisateurs finals sourds et malentendants à une offre de services de communications électroniques, incluant la fourniture, à un prix abordable au sens de l'article L. 35-1 et dans le respect de conditions de qualité définies par l'Autorité de régulation des communications électroniques et des postes, d'un service de traduction simultanée écrite et visuelle. Ce service garantit les conditions de neutralité et de confidentialité mentionnées au b du présent I ainsi que la prévention de la violation des données à caractère personnel mentionnée à l'article 34 bis de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; ».
+« Art. L. 224-58-1. – Les entreprises dont le chiffre d’affaires est supérieur à un seuil défini par décret rendent ce numéro accessible aux personnes sourdes, malentendantes, sourdaveugles et aphasiques par la mise à disposition d’un service de traduction écrite simultanée et visuelle tel que défini au IV de l’article 43 de la loi n°     du        pour une République numérique, sans surcoût pour les utilisateurs finals et à la charge des entreprises concernées.
 
-III bis (nouveau). - La mise en oeuvre des I à III peut s'appuyer sur des applications de communications électroniques permettant la vocalisation du texte, la transcription de la voix en texte, la traduction en et depuis la langue française de signes ou la transcription en et depuis le langage parlé complété. Cette mise en oeuvre ne peut se substituer au service de traduction simultanée écrite et visuelle mentionné aux mêmes I à III qu'à la condition de garantir une accessibilité de qualité équivalente et d'offrir les mêmes conditions de traduction à toutes les personnes sourdes et malentendantes.
+« Les services d’accueil téléphonique concernés sont accessibles directement ou, à défaut, par l’intermédiaire d’une plateforme en ligne dédiée délivrant le service de traduction écrite et visuelle. L’accessibilité est soit assurée directement par l’entreprise, soit confiée par elle, sous sa responsabilité, à un opérateur spécialisé qui en assure la mise en œuvre et l’exécution. »
 
-IV. - Le 2° du I et le III entrent en vigueur selon des modalités et à une date prévues par décret, et au plus tard cinq ans après la promulgation de la présente loi. Le II entre en vigueur à une date fixée par décret, et au plus tard deux ans après la promulgation de la présente loi. Le décret précise également les modalités de suivi de l'application du présent article.
+IV – La mise en œuvre des I à III s’appuie notamment sur la création d’un groupement interprofessionnel comportant notamment des opérateurs de communications électroniques dont l’objet est d’assurer l’organisation, le fonctionnement et la gestion de services d’accessibilité téléphonique grâce à une mutualisation des coûts selon des modalités définies dans le décret mentionné au VII et sous le contrôle de l’Autorité de régulation des communications électroniques et des postes.
+
+Les services de traduction mentionnés aux I à III assurent, en mode simultané et à la demande de l’utilisateur, l’interprétariat entre le français et la langue des signes française, la transcription écrite et le codage en langage parlé complété.
+
+L’accessibilité des services d’accueil mentionnés aux II et III peut être réalisée directement par des téléconseillers professionnels maitrisant la langue des signes française, la transcription écrite ou le codage en langage parlé complété et dont les diplômes et qualifications sont précisés dans le décret mentionné au VII.
+
+V. – Dans un délai de dix ans à compter de la promulgation de la présente loi, et selon des modalités définies par le décret prévu au VII, le service de traduction mentionné à l’article L. 33‑1 du code des postes et des communications électroniques, dans sa rédaction résultant du I du présent article, fonctionne vingt-quatre heures sur vingt-quatre, tous les jours de l’année, le service de traduction mentionné à l’article 78 de la loi n° 2005-102 du 11 février 2005 pour l’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, dans sa rédaction résultant du II du présent article, fonctionne aux horaires d’ouverture des services d’accueil téléphonique, et le service de traduction mentionné à l’article L. 224-58-1 du code de la consommation, dans sa rédaction résultant du III du présent article, fonctionne aux horaires d’ouverture des services clients.
+
+VI. – La mise en œuvre des I à III peut s’appuyer sur des applications de communications électroniques permettant la vocalisation du texte, la transcription de la voix en texte, la traduction en et depuis la langue des signes française ou la transcription en et depuis le langage parlé complété. Cette mise en œuvre ne peut se substituer au service de traduction simultanée écrite et visuelle mentionné aux mêmes I à III qu’à la condition de garantir une accessibilité de qualité équivalente et d’offrir les mêmes conditions de traduction aux personnes sourdes, malentendantes, sourdaveugles et aphasiques.
+
+VII. – Le I et le 2° du II entrent en vigueur selon des modalités et à une date prévues par décret et, au plus tard, cinq ans après la promulgation de la présente loi. Le III entre en vigueur à une date fixée par décret et, au plus tard, deux ans après la promulgation de la présente loi. Le décret précise également les modalités de suivi de l’application du présent article et les diplômes et qualifications requis pour les professionnels intervenant sur l’accessibilité simultanée des appels.
+
+VIII. – Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement présente un plan des métiers visant à développer les formations conduisant aux professions spécialisées nécessaires à la mise en œuvre du présent article.
 
 Section 2
 
@@ -367,423 +842,196 @@ Accès des personnes handicapées aux sites internet publics
 
 Article 44
 
-I. - L'article 47 de la loi n° 2005-102 du 11 février 2005 précitée est ainsi rédigé :
+I. – L’article 47 de la loi n° 2005‑102 du 11 février 2005 pour l’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées est ainsi rédigé :
 
-« Art. 47. - I. - Les services de communication au public en ligne des services de l'État, des collectivités territoriales et des établissements publics qui en dépendent ainsi que ceux des organismes délégataires d'une mission de service public doivent être accessibles aux personnes handicapées.
+« Art. 47. – I. – Les services de communication au public en ligne des services de l’État, des collectivités territoriales et des établissements publics qui en dépendent ainsi que ceux des organismes délégataires d’une mission de service public, des services de communication des entreprises bénéficiant d’un financement public et des entreprises fournissant des services d’intérêt général doivent être accessibles aux personnes handicapées.
 
-« L'accessibilité des services de communication au public en ligne concerne l'accès à tout type d'information sous forme numérique, quels que soient le moyen d'accès, les contenus et le mode de consultation. Les recommandations internationales pour l'accessibilité de l'internet doivent être appliquées pour les services de communication publique en ligne.
+« L’accessibilité des services de communication au public en ligne concerne l’accès à tout type d’information sous forme numérique, quels que soient le moyen d’accès, les contenus et le mode de consultation et vise notamment les sites internet, intranet, extranet, applications mobiles, progiciels et mobilier urbain numérique. Les recommandations internationales pour l’accessibilité de l’internet doivent être appliquées pour les services de communication publique en ligne.
 
-« Les personnes mentionnées au premier alinéa élaborent un schéma pluriannuel de mise en accessibilité de leurs services de communication au public en ligne, qui est rendu public et décliné en plans d'actions annuels.
+« Les personnes mentionnées au premier alinéa élaborent un schéma pluriannuel de mise en accessibilité de leurs services de communication au public en ligne, qui est rendu public et décliné en plans d’actions annuels et dont la durée ne peut être supérieure à trois ans.
 
-« II. - La page d'accueil de tout service de communication au public en ligne comporte une mention clairement visible précisant s'il est ou non conforme aux règles relatives à l'accessibilité ainsi qu'un lien renvoyant à une page indiquant notamment l'état de mise en oeuvre du schéma pluriannuel de mise en accessibilité et du plan d'actions de l'année en cours mentionnés au I et permettant aux usagers de signaler les manquements aux règles d'accessibilité de ce service.
+« II. – La page d’accueil de tout service de communication au public en ligne comporte une mention clairement visible précisant s’il est ou non conforme aux règles relatives à l’accessibilité ainsi qu’un lien renvoyant à une page indiquant notamment l’état de mise en œuvre du schéma pluriannuel de mise en accessibilité et du plan d’actions de l’année en cours mentionnés au I et permettant aux usagers de signaler les manquements aux règles d’accessibilité de ce service.
 
-« III. - Le défaut de mise en conformité d'un service de communication au public en ligne avec les obligations prévues au II fait l'objet d'une sanction administrative dont le montant, qui ne peut excéder 5 000 €, est fixé par le décret en Conseil d'État mentionné au IV. Une nouvelle sanction est prononcée chaque année lorsque le manquement à ces dispositions perdure.
+« III. – Le défaut de mise en conformité d’un service de communication au public en ligne avec les obligations prévues au II fait l’objet d’une sanction administrative dont le montant, qui ne peut excéder 5 000 €, est fixé par le décret en Conseil d’État mentionné au IV. Une nouvelle sanction est prononcée chaque année lorsque le manquement à ces dispositions perdure.
 
-« IV. - Un décret en Conseil d'État fixe les règles relatives à l'accessibilité et précise, par référence aux recommandations établies par l'autorité administrative compétente, la nature des adaptations à mettre en oeuvre ainsi que les délais de mise en conformité des services de communication au public en ligne existants, qui ne peuvent excéder trois ans, et les conditions dans lesquelles des sanctions sont imposées et recouvrées en cas de non-respect des obligations prévues au II. Ce décret définit les modalités de formation des personnels intervenant sur les services de communication au public en ligne. »
+« IV. – Un décret en Conseil d’État fixe les règles relatives à l’accessibilité et précise, par référence aux recommandations établies par l’autorité administrative compétente, la nature des adaptations à mettre en œuvre ainsi que les délais de mise en conformité des services de communication au public en ligne existants, qui ne peuvent excéder trois ans, et les conditions dans lesquelles des sanctions sont imposées et recouvrées en cas de non‑respect des obligations prévues au II. Ce décret définit les modalités de formation des personnels intervenant sur les services de communication publique en ligne. »
 
-II. - L'article L. 111-7-12 du code de la construction et de l'habitation est ainsi modifié :
+II. – (Non modifié) 
 
-1° Le premier alinéa est complété par une phrase ainsi rédigée :
+III (nouveau). – L’article 6 sexies de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires est complété par un alinéa ainsi rédigé :
 
-« Ce fonds peut également participer au financement des prestations destinées à assurer le respect de l'obligation d'accessibilité des services de communication au public en ligne, prévue à l'article 47 de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées. » ;
+« Ces aménagements incluent notamment celui de tous les outils numériques concourant à l’accomplissement de la mission des agents, notamment les logiciels métiers et de bureautique ainsi que les appareils mobiles. Ils concernent tout agent de la fonction publique, quels que soient sa position et son statut. »
 
-2° L'avant-dernier alinéa est complété par les mots : « ainsi qu'à l'article 47 de la loi n° 2005-102 du 11 février 2005 précitée ».
+Article 44 bis (nouveau)
+
+I. – Le code de l’action sociale et des familles est ainsi modifié :
+
+1° Le dernier alinéa de l’article L. 146-4 est supprimé ;
+
+2° L’article L. 241-3 est ainsi rédigé :
+
+« Art. L. 241-3. – I. – La carte mobilité inclusion destinée aux personnes physiques est délivrée par le président du conseil départemental au vu de l’appréciation mentionnée au 3° du I de l’article L. 241-6 de la commission mentionnée à l’article L. 146‑9. Elle peut comprendre une ou plusieurs des mentions suivantes, chacune à titre définitif ou pour une durée déterminée :
+
+« 1° La mention “invalidité” est attribuée à toute personne dont le taux d’incapacité permanente est au moins de 80 % ou qui a été classée en 3e catégorie de la pension d’invalidité de la sécurité sociale.
+
+« Cette mention permet notamment d’obtenir une priorité d’accès aux places assises dans les transports en commun, dans les espaces et salles d’attente ainsi que dans les établissements et les manifestations accueillant du public, tant pour son titulaire que pour la personne qui l’accompagne dans ses déplacements. Elle permet également d’obtenir une priorité dans les files d’attente. Cette disposition doit être rappelée par un affichage clair et visible dans les lieux dans lesquels ce droit s’exerce.
+
+« Ces dispositions sont applicables aux Français établis hors de France ;
+
+« 2° La mention “priorité” est attribuée à toute personne atteinte d’une incapacité inférieure à 80 % rendant la station debout pénible.
+
+« Elle permet d’obtenir une priorité d’accès aux places assises dans les transports en commun, dans les espaces et salles d’attente ainsi que dans les établissements et les manifestations accueillant du public. Elle permet également d’obtenir une priorité dans les files d’attente ;
+
+« 3° La mention “stationnement” pour personnes handicapées est attribuée à toute personne, atteinte d’un handicap qui réduit de manière importante et durable sa capacité et son autonomie de déplacement à pied ou qui impose qu’elle soit accompagnée par une tierce personne dans ses déplacements.
+
+« Les organismes utilisant un véhicule destiné au transport collectif des personnes handicapées peuvent recevoir la carte mobilité inclusion avec la mention stationnement par le préfet.
+
+« La mention “stationnement” pour personnes handicapées permet à son titulaire ou à la tierce personne l’accompagnant d’utiliser, à titre gratuit et sans limitation de la durée de stationnement, toutes les places de stationnement ouvertes au public. Toutefois, les autorités compétentes en matière de circulation et de stationnement peuvent fixer une durée maximale de stationnement qui ne peut être inférieure à douze heures. Cette mention permet, dans les mêmes conditions, de bénéficier des autres dispositions qui peuvent être prises en faveur des personnes handicapées par les autorités compétentes en matière de circulation et de stationnement.
+
+« Les mêmes autorités peuvent également prévoir que, pour les parcs de stationnement disposant de bornes d’entrée et de sortie accessibles aux personnes handicapées depuis leur véhicule, les titulaires de cette mention sont soumis au paiement de la redevance de stationnement en vigueur.
+
+« II. – Par dérogation, les mentions “invalidité” et “stationnement” de la carte mobilité inclusion sont délivrées à titre définitif aux demandeurs et aux bénéficiaires de l’allocation prévue à l’article L.232-1 classés dans le groupe 1 ou 2 de la grille nationale mentionnée à l’article L. 232-2, au vu de la seule décision d’attribution de l’allocation.
+
+« III. – Par dérogation, le président du conseil départemental peut délivrer les mentions “priorité” et “stationnement” de la carte mobilité inclusion aux demandeurs et bénéficiaires de l’allocation prévue à l’article L. 232-1, au vu de l’appréciation de l’équipe médico-sociale mentionnée à l’article L. 232-6. 
+
+« IV. – Par dérogation, pour les personnes relevant du code des pensions militaires d’invalidité et de victimes de la guerre qui remplissent les conditions mentionnées au 3° du I du présent article, le représentant de l’État dans le département délivre une carte de stationnement après instruction par le service départemental de l’Office national des anciens combattants et victimes de guerre de leur lieu de résidence.
+
+« V. – Les démarches de demande initiale et de duplicata de la carte mobilité inclusion peuvent être effectuées par voie dématérialisée.
+
+« VI. – Un décret en Conseil d’État fixe les conditions d’application du présent article, notamment les modalités de protection des données personnelles et de sécurisation de la carte, ainsi que des modalités spécifiques d’instruction et d’attribution de la carte mobilité inclusion pour les bénéficiaires de l’allocation prévue à l’article L. 232-1. » ;
+
+3° Les articles L. 241-3-1 et L. 241-3-2 sont abrogés ;
+
+4° Le a du 3° du I de l’article L. 241-6 est ainsi modifié :
+
+a) Les mots : « la carte d’invalidité et de la carte portant la mention : “Priorité pour personne handicapée” prévues respectivement aux articles L. 241-3 et L. 241-3-1 du présent code » sont remplacés par les mots : « la carte mobilité inclusion prévue à l’article L. 241-3 » ;
+
+b) À la fin, les mots : « la carte d’invalidité, à l’exception de celle demandée par le bénéficiaire de l’allocation mentionnée à l’article L. 232-1 et classé dans le groupe 1 ou 2 de la grille nationale prévue à l’article L. 232-2, et de la carte portant la mention : “Priorité pour personne handicapée” prévues respectivement aux articles L. 241-3 et L. 241-3-1 du présent code » sont remplacés par les mots : « la carte mobilité inclusion prévue à l’article L. 241-3 ».
+
+IV. – Au 3° de l’article L. 2213-2 du code général des collectivités territoriales, les mots : « carte de stationnement » sont remplacés par les mots : « carte mobilité inclusion avec la mention stationnement ».
+
+V. – Au III de l’article 150 U, à la onzième ligne de la première colonne du tableau constituant le deuxième alinéa du 1 de l’article 168, au d bis du 1 et au 2 de l’article 195, à l’article 196 A bis, au a du I de l’article 244 quater J, au b du I de l’article 1011 bis, à l’avant-dernier alinéa du 2° du I de l’article 1011 ter et au 4° du 3 bis du II de l’article 1411 du code général des impôts, les mots : « carte d’invalidité » sont remplacés par les mots : « carte mobilité inclusion avec la mention invalidité ».
+
+VI. – À la fin du second alinéa de l’article L. 4321-3 du code de la santé publique, les mots : « carte d’invalidité prévue par l’article 173 du code de la famille et de l’aide sociale » sont remplacés par les mots : « carte mobilité inclusion avec la mention invalidité prévue à l’article L. 241-3 du code de l’action sociale et des familles ».
+
+VII. – Au 10° de l’article L. 5212-13 du code du travail, les mots : « carte d’invalidité » sont remplacés par les mots : « carte mobilité inclusion avec la mention invalidité ».
+
+VIII. – Les cartes délivrées antérieurement à l’entrée en vigueur du présent article demeurent valables jusqu’à leur date d’expiration, sauf en cas de demande d’une carte mobilité inclusion avant cette date.
+
+IX. – Le présent article entre en vigueur au 1er janvier 2017.
+
+Les demandes de carte en cours d’instruction à la date d’entrée en vigueur du présent article donnent lieu à la délivrance de la carte mobilité inclusion.
 
 Section 3
-
 Maintien de la connexion à internet
 
 Article 45
 
-I. - L'article L. 115-3 du code de l'action sociale et des familles est ainsi modifié :
+(Conforme)
 
-1° À la fin du premier alinéa, les mots : « et de services téléphoniques dans son logement » sont remplacés par les mots : « d'un service de téléphonie fixe et d'un service d'accès à internet » ;
-
-2° Le deuxième alinéa est ainsi rédigé :
-
-« En cas de non-paiement des factures, la fourniture d'énergie et d'eau, un service téléphonique et un service d'accès à internet sont maintenus jusqu'à ce qu'il ait été statué sur la demande d'aide. Le service téléphonique maintenu peut être restreint par l'opérateur, sous réserve de préserver la possibilité de recevoir des appels ainsi que de passer des communications locales et vers les numéros gratuits et d'urgence. Le débit du service d'accès à internet maintenu peut être restreint par l'opérateur, sous réserve de préserver un accès fonctionnel aux services de communication au public en ligne et aux services de courrier électronique. » ;
-
-3° (nouveau) À l'avant-dernier alinéa, après le mot : « gaz », sont insérés les mots : « d'un service de téléphonie fixe ou d'un service d'accès à internet ».
-
-II. - La loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement est ainsi modifiée :
-
-1° À la première phrase du troisième alinéa de l'article 6, les mots : « et de téléphone » sont remplacés par les mots : « , de téléphone et d'accès à internet » ;
-
-2° Au dernier alinéa de l'article 6-1, les mots : « ou de services téléphoniques » sont remplacés par les mots : « , de services téléphoniques ou de services d'accès à internet » ;
-
-3° (nouveau) Au deuxième alinéa de l'article 6-3, après le mot : « eau », sont insérés les mots : « ou de services téléphoniques ou d'accès à internet ».
-
-Article 45 bis (nouveau)
+Article 45 bis
 
 Le code du travail est ainsi modifié :
 
-1° Au second alinéa de l'article L. 6111-2, après le mot : « française », sont insérés les mots : « ainsi que les actions de lutte contre l'illettrisme numérique » ;
+1° Au second alinéa de l’article L. 6111‑2, après le mot : « française », sont insérés les mots : « ainsi que de compétences numériques » ;
 
-2° Le troisième alinéa de l'article L. 6321-1 est complété par les mots : « et l'illettrisme numérique ».
+2° Au troisième alinéa de l’article L. 6321-1, après le mot : « compétences, », sont insérés les mots : « y compris numériques, ».
 
-CHAPITRE IV
-
+Chapitre IV
 Accès des personnes détenues à internet
 
-(Division et intitulé nouveaux)
+(Division et intitulé supprimés)
 
-Article 45 ter (nouveau)
+Article 45 ter
 
-Il est remis au Parlement, avant le 1er janvier 2017, un rapport sur les conditions et les modalités de mise en oeuvre de l'accès au numérique de toutes les personnes privées de liberté.
+(Supprimé)
 
 TITRE IV
 
-DISPOSITIONS RELATIVES À L'OUTRE-MER
+DISPOSITIONS RELATIVES À L’OUTRE‑MER
 
 Article 46
 
-I. - Les articles 1er à 9, les I et III de l'article 10, les articles 11, 13 à 16, 18, 26 à 33 et 41 et les I et IV de l'article 43 de la présente loi sont applicables en Nouvelle-Calédonie.
+I. – Les I et VI de l’article 1er, le II de l’article 7 bis, les articles 9 bis, 10, 11, 20 septies, le III de l’article 33, les articles [ ] 33 quater, 41 et les I et IV de l’article 43 de la présente loi sont applicables en Nouvelle‑Calédonie.
 
-II. - Les articles 1er à 5, le II de l'article 8, les articles 9 à 9 ter, les I et III de l'article 10, les articles 11, 13 à 16, 16 ter, 18, 26 à 33 quater et 41 et les I et IV de l'article 43 de la présente loi sont applicables en Polynésie française.
+II. – Les I et VI de l’article 1er, le II de l’article 7 bis, les articles 9 bis, 10, 11, 20 septies, le III de l’article 33, les articles [ ] 33 quater, 41 et les I et IV de l’article 43 de la présente loi sont applicables en Polynésie française.
 
-III. - Les articles 1er à 9, les I et III de l'article 10, les articles 11 à 16 et 18, le 1° du I et le II de l'article 21, les articles 26 à 34 et 41 et les I et IV de l'article 43 de la présente loi sont applicables dans les îles Wallis et Futuna.
+III. – Les I et VI de l’article 1er, le II de l’article 7 bis, les articles 9 bis, 10, 11, 12, 20 septies, 21 à 23, 24, le III de l’article 33, les articles [ ] 33 quater, 41 et les I et IV de l’article 43 de la présente loi sont applicables dans les îles Wallis et Futuna.
 
-IV. - Les articles 1er à 9, les I et III de l'article 10, les articles 11 à 18 et 26 à 33, les I et IV de l'article 43 et le I de l'article 44 sont applicables dans les Terres australes et antarctiques françaises.
+IV. – Les I et VI de l’article 1er, le II de l’article 7 bis, les articles 9 bis, 10, 11, 41, les I et IV de l’article 43 et le I de l’article 44 de la présente loi sont applicables dans les Terres australes et antarctiques françaises.
+
+Article 46 bis (nouveau)
+
+L’article L. 34-10 du code des postes et communications électroniques est ainsi rédigé :
+
+« Art. L. 34-10. – Les obligations imposées aux opérateurs par le règlement (UE) 531/2012 du Parlement européen et du Conseil, du 13 juin 2012, concernant l’itinérance sur les réseaux publics de communications mobiles à l’intérieur de l’Union, modifié par le règlement (UE) 2015/2120 du Parlement européen et du Conseil, du 25 novembre 2015, établissant des mesures relatives à l’accès à un internet ouvert et modifiant la directive 2002/22/CE concernant le service universel et les droits des utilisateurs au regard des réseaux et services de communications électroniques et le règlement (UE) n° 531/2012 concernant l’itinérance sur les réseaux publics de communications mobiles à l’intérieur de l’Union, s’appliquent aux prestations d’itinérance ultramarine. 
+
+« Par dérogation au premier alinéa, à compter du 1er mai 2016, les surcoûts de l’itinérance ultramarine sont supprimés pour les communications vocales et les minimessages des clients d’une entreprise opérant et exploitant un réseau radioélectrique dans les Outre-Mer.
+
+« En cas d’échec des négociations commerciales ou de désaccord sur la conclusion ou l’exécution d’une convention d’interconnexion ou d’accès à un réseau de communications électroniques, l’Autorité de régulation des communications électroniques et des postes peut être saisie du différend par l’une des parties, selon les modalités prévues à l’article L. 36-8 du code des postes et communications électroniques. »
 
 Article 47
 
-I. - Le livre Ier du code de la consommation est ainsi modifié :
+I. – (Supprimé)
 
-1° L'article L. 123-1 est complété par un alinéa ainsi rédigé :
+II. – Le titre IV du livre V du code de la recherche est ainsi modifié :
 
-« Les articles L. 121-120 à L. 121-125 sont applicables dans les îles Wallis et Futuna. » ;
+1° et 2° (Supprimés)
 
-2° Le chapitre IV du titre Ier est complété par un article L. 116-2 ainsi rédigé :
+3° À l’article L. 545-1, après les mots : « L. 533-2 et », la fin du premier alinéa est ainsi rédigée : « L. 533-4 sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n°     du      pour une République numérique ».
 
-« Art. L. 116-2. - Les articles L. 111-5, L. 111-5-1 à L. 111-5-3 et L. 111-6-1, dans leur rédaction résultant de la loi n°     du      pour une République numérique, sont applicables dans les îles Wallis et Futuna. »
+III. – Le livre V du code des relations entre le public et l’administration est ainsi modifié :
 
-II. - Le titre IV du livre V du code de la recherche est ainsi modifié :
+1° A (nouveau) À la seconde colonne de la sixième ligne du tableau des articles L. 552-3, L. 562-3 et L. 572-1, les mots : « l’ordonnance n° 2015-1341 » sont remplacés par les mots : « la loi n°       du         pour une République numérique » ;
 
-1° Après le premier alinéa de l'article L. 546-1, il est inséré un alinéa ainsi rédigé :
+1° B (nouveau) Les tableaux des articles L. 552-8, L. 562-8 et L. 574-1 sont ainsi modifiés :
 
-« L'article L. 533-4, dans sa rédaction résultant de la loi n°     du       pour une République numérique, est applicable en Polynésie française, sous réserve des compétences de la collectivité en matière de droit civil et de propriété intellectuelle. » ;
+a) À la seconde colonne des troisième, sixième et avant‑dernière lignes, les mots : « l’ordonnance n° 2015-1341 » sont remplacés par les mots : « la loi n°       du         pour une République numérique » ;
 
-2° Après le premier alinéa de l'article L. 547-1, il est inséré un alinéa ainsi rédigé :
+b) La première colonne de la huitième ligne est complétée par les mots : «  à L. 312-1-3 » ;
 
-« L'article L. 533-4, dans sa rédaction résultant de la loi n°     du       pour une République numérique, est applicable en Nouvelle-Calédonie, sous réserve des compétences de la collectivité en matière de droit civil et de propriété intellectuelle. » ;
+c) À la seconde colonne des huitième, douzième et vingt‑sixième lignes, les mots : « l’ordonnance n° 2016-307 » sont remplacés par les mots : « la loi n°       du         pour une République numérique » ;
 
-3° Après le premier alinéa de l'article L. 545-1, il est inséré un alinéa ainsi rédigé :
+d) À la première colonne de la douzième ligne, les mots : « et L. 321‑2 » sont remplacés par les mots : « à L. 321-4 » ;
 
-« L'article L. 533-4, dans sa rédaction résultant de la loi n°     du      pour une République numérique, est applicable dans les îles Wallis et Futuna. »
+e) La première colonne de la vingt-sixième ligne est complétée par les mots : «  et L. 341-1-1 » ;
 
-III. - Le livre V du code des relations entre le public et l'administration est ainsi modifié :
+f) À la première colonne de l’avant-dernière ligne, les mots : « et L. 342-2 » sont remplacés par les mots : « à L. 342-6» ;
 
-1° Le tableau du second alinéa de l'article L. 552-8 est ainsi modifié :
+g) Le dernier alinéa est supprimé ;
 
-a) La sixième ligne est remplacée par quatre lignes ainsi rédigées :
+1° C (nouveau) L’article L. 552-15 est ainsi rédigé :
 
-« 
+« Art. L. 552-15. – Pour l’application des articles L. 311-8 et L. 312‑1‑2 en Polynésie française, les références aux articles L. 212-2, L. 212-3, L. 213-1, L. 213-2 et L. 213-3 du code du patrimoine sont remplacées par la référence à la réglementation localement applicable. » ;
 
-L. 311-1 à L. 311-3
+1° D (nouveau) L’article L. 553-2 est ainsi modifié :
 
-Résultant de l'ordonnance n° 2015-1341
+a) À la seconde colonne des deuxième à dernière lignes du tableau de l’article L. 553-2, les mots : « l’ordonnance n° 2015‑1341 » sont remplacés par les mots : « la loi n°       du         pour une République numérique » ;
 
- 
- 	
-L. 311-3-1
+b) À la première colonne de la dernière ligne, les mots : « et L. 312‑3 » sont remplacés par les mots : « à L. 312-1-3 ».
 
-Résultant de la loi n°     du   
-pour une République numérique
+1° E (nouveau) L’article L. 562-16 est ainsi rédigé :
 
- 
- 	
-L. 311-4
+« Art. L. 562-16. – Pour l’application des articles L. 311-8 et L. 312-1-2 en Nouvelle-Calédonie, les références aux articles L. 212-2, L. 212-3, L. 213-1, L. 213-2 et L. 213-3 du code du patrimoine sont remplacées par la référence à la réglementation localement applicable. » ;
 
-Résultant de la loi n°     du   
-pour une République numérique
+1° à 8° (Supprimés)
 
- 
- 	
-L. 311-5 à L. 311-9
+IV. – (Non modifié) 
 
-Résultant de l'ordonnance n° 2015-1341
-
- » ;
-
-b) La huitième ligne est remplacée par deux lignes ainsi rédigées :
-
-« 
-
-L. 312-1 à L. 312-1-2
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- 
- 	
-L. 312-2
-
-Résultant de l'ordonnance n° 2015-1341
-
- » ;
-
-c) L'avant-dernière ligne est ainsi rédigée :
-
-« 
-
-L. 341-1
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- » ;
-
-d) La dernière ligne est remplacée par deux lignes ainsi rédigées :
-
-« 
-
-L. 342-1 et L. 342-2
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- 
- 	
-L. 342-3
-
-Résultant de l'ordonnance n° 2015-1341
-
- » ;
-
-2° L'article L. 552-15 est ainsi rédigé :
-
-« Art. L. 552-15. - Pour l'application des articles L. 311-8 et L. 312-1-2 en Polynésie française, les références aux articles L. 212-2, L. 212-3, L. 213-1, L. 213-2 et L. 213-3 du code du patrimoine sont remplacées par la référence à la réglementation localement applicable. » ;
-
-3° La troisième ligne du tableau du second alinéa de l'article L. 553-2 est remplacée par deux lignes ainsi rédigées :
-
-« 
-
-L. 311-1 à L. 311-3
-
-Résultant de l'ordonnance n° 2015-1341
-
- 
- 	
-L. 311-3-1
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- » ;
-
-4° Le tableau du second alinéa de l'article L. 562-8 est ainsi modifié :
-
-a) La sixième ligne est remplacée par quatre lignes ainsi rédigées :
-
-« 
-
-L. 311-1 à L. 311-3
-
-Résultant de l'ordonnance n° 2015-1341
-
- 
- 	
-L. 311-3-1
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- 
- 	
-L. 311-4
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- 
- 	
-L. 311-5 à L. 311-9
-
-Résultant de l'ordonnance n° 2015-1341
-
- » ;
-
-b) La huitième ligne est remplacée par deux lignes ainsi rédigées :
-
-« 
-
-L. 312-1 à L. 312-1-2
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- 
- 	
-L. 312-2
-
-Résultant de l'ordonnance n° 2015-1341
-
- » ;
-
-c) L'avant-dernière ligne est ainsi rédigée :
-
-« 
-
-L. 341-1
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- » ;
-
-d) La dernière ligne est remplacée par deux lignes ainsi rédigées :
-
-« 
-
-L. 342-1 et L. 342-2
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- 
- 	
-L. 342-3
-
-Résultant de l'ordonnance n° 2015-1341
-
- » ;
-
-5° L'article L. 562-16 est ainsi rédigé :
-
-« Art. L. 562-16. - Pour l'application des articles L. 311-8 et L. 312-1-2 en Nouvelle-Calédonie, les références aux articles L. 212-2, L. 212-3, L. 213-1, L. 213-2 et L. 213-3 du code du patrimoine sont remplacées par la référence à la réglementation localement applicable. » ;
-
-6° La troisième ligne du tableau du second alinéa de l'article L. 563-2 est remplacée par deux lignes ainsi rédigées :
-
-« 
-
-L. 311-1 à L. 311-3
-
-Résultant de l'ordonnance n° 2015-1341
-
- 
- 	
-L. 311-3-1
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- » ;
-
-7° Le tableau du second alinéa de l'article L. 574-1 est ainsi modifié :
-
-a) La quatrième ligne est remplacée par quatre lignes ainsi rédigées :
-
-« 
-
-L. 311-1 à L. 311-3
-
-Résultant de l'ordonnance n° 2015-1341
-
- 
- 	
-L. 311-3-1
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- 
- 	
-L. 311-4
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- 
- 	
-L. 311-5 à L. 311-9
-
-Résultant de l'ordonnance n° 2015-1341
-
- » ;
-
-b) La sixième ligne est remplacée par deux lignes ainsi rédigées :
-
-« 
-
-L. 312-1 à L. 312-12-2
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- 
- 	
-L. 312-2
-
-Résultant de l'ordonnance n° 2015-1341
-
- » ;
-
-c) L'avant-dernière ligne est ainsi rédigée :
-
-« 
-
-L. 341-1
-
-Résultant de la loi n°     du   
-pour une République numérique
-
- » ;
-
-d) La dernière ligne est remplacée par deux lignes ainsi rédigées :
-
-« 
-
-L. 342-1 et L. 342-2
-
-Résultant de la loi n°   du   
-pour une République numérique
-
- 
- 	
-L. 342-3
-
-Résultant de l'ordonnance n° 2015-1341
-
- » ;
-
-8° La troisième ligne du tableau du second alinéa de l'article L. 574-5 est remplacée par deux lignes ainsi rédigées :
-
-« 
-
-L. 311-1 à L. 311-3
-
-Résultant de l'ordonnance n° 2015-1341
-
- 
- 	
-L. 311-3-1
-
-Résultant de la loi n°   du   
-pour une République numérique
-
- »
-
-IV. - L'article L. 32-3 du code des postes et des communications électroniques, dans sa rédaction résultant de l'article 34 de la présente loi, est complété par un IV ainsi rédigé :
-
-« IV. - Le présent article est applicable dans les îles Wallis et Futuna. »
+V (nouveau). – À l’article 72 de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, après les mots : « est applicable », la fin du premier alinéa est ainsi rédigée : « , dans sa rédaction résultant de la loi n°       du        pour une République numérique, en Nouvelle‑Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises. »
 
 Article 48
 
-I. - L'article 59 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal est ainsi modifié :
+I. – L’article 59 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d’amélioration des relations entre l’administration et le public et diverses dispositions d’ordre administratif, social et fiscal est abrogé.
 
-1° (nouveau) Au I, après le mot : « française », sont insérés les mots : « , à l'exception des articles 10 à 12, du premier alinéa de l'article 13 et des articles 14 à 19 et 25, » ;
+II. – (Supprimé)
 
-2° Le III est complété par un 3° ainsi rédigé :
+III. – Le I de l’article 41 de la loi n° 2000‑321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations est complété par un alinéa ainsi rédigé :
 
-« 3° En Nouvelle-Calédonie et en Polynésie française, les références au code de la propriété intellectuelle sont remplacées, le cas échéant, par les références aux dispositions applicables localement. »
+« Pour l’application en Nouvelle‑Calédonie, en Polynésie française et dans les îles Wallis et Futuna des troisième à septième [ ] alinéas de l’article 10, les mots : “mentionné au premier alinéa de l’article 9‑1” sont supprimés. »
 
-II. - Au premier alinéa de l'article 41-1 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques, après la référence : « 40 », est insérée la référence : « , 40-2 ».
+Délibéré en séance publique, à Paris, le 3 mai 2016.
 
-III. - Le I de l'article 41 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations est complété par un alinéa ainsi rédigé :
-
-« Pour l'application en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna des troisième à septième et avant-dernier alinéas de l'article 10, les mots : «mentionné au premier alinéa de l'article 9-1» sont supprimés. »
-
-Délibéré en séance publique, à Paris, le 26 janvier 2016.
-
-Le Président,
-Signé : CLAUDE BARTOLONE
+                                                                  Le Président,
+                                                       Signé : Gérard LARCHER
+                                                       
